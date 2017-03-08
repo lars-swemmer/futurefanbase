@@ -7,7 +7,7 @@
               <div class="col-md-6 col-md-offset-3">
                 <h1 class="wow fadeInUp" data-wow-delay="1.2s">Contests &amp; Giveaways</h1>
                 <p class="wow fadeInUp" data-wow-delay="1.3s">
-                  You want to give your fans and future fans something extra? That’s really nice! And we fully support it.
+                  You want to give your fans and future fans something extra? That’s really nice! And we fully support it. In the near future it’s possible to host a campaign website with your branding and call to action (tba).
                 </p>
               </div>
             </div>
