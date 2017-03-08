@@ -27,7 +27,7 @@
                     	<div class="services-text">
                         	<h1>Generate Data</h1>
                         	<p>
-                           Future Fanbase has a unique strategy for artists to collect data while they increase following on Spotify! How? We will create a special, artist branded, webpage connected with the Spotify database to promote your profile and playlist(s). With this page we can generate data for you, while collecting future fans!
+                           Future Fanbase has a unique strategy for artists to collect data while they increase following on Spotify! How? We will create a special, artist branded, webpage connected with the Spotify database to promote your profile and playlists. With this page we can generate data for you, while collecting future fans!
                           </p>
                     	</div>
                 	</div>
