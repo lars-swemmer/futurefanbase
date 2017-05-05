@@ -90,7 +90,7 @@
         With years of experience in the music industry we know what’s important to artists and music brands.
       </p>
       <div class="cta animated fadeInDown">
-        <a href="features.html" class="button-outline">See the tour</a>
+        <a href="features.html" class="button-outline">See products</a>
         <a href="signup.html" class="button">Contact us</a>
       </div>
       <div class="img"></div>
@@ -102,14 +102,14 @@
       <div class="row header">
         <div class="col-md-12">
           <h2>"When it comes to music marketing, data is power" - <i>Forbes</i></h2>
-          <p>Data will give you insights on your fanbase and improve your next marketing campaign.</p>
+          <p>Data will give you insights on your fanbase and will improve your next marketing campaign.</p>
         </div>
       </div>
       <div class="row feature">
         <div class="col-md-6 info">
           <h4>Gather data in your own database</h4>
           <p>
-            With our technical skills we are able to generate data of your future fans. Whether it’s through the special Spotify promotion or the (tba) campaign website, if there’s a way to retrieve data, we will.
+            Data will give you insights on your fanbase, will improve your next online marketing campaign and the opportunity to generate more future fans. With the products of Future Fanbase you can generate data and see real time results in your own database.
           </p>
         </div>
         <div class="col-md-6 image">
@@ -119,12 +119,12 @@
       <div class="divider"></div>
       <div class="row feature backwards">
         <div class="col-md-6 info">
-          <h4>We can take online marketing to the next level.</h4>
+          <h4>We can take online marketing to the next level</h4>
           <p>
-            We are always looking for the best and new ways to spread your message and increase following in the digital world.
+            We are always looking for the best and new ways to spread your message and increase awareness in the digital world.
           </p>
           <p>
-            Together we will set your goals and match them with the preferable budget. In result we will create the right campaign, with the best combination of platforms.
+            Together we will set your goals and match them with the preferable budget. In result we will create the right campaign, with the right targeting and the best combination of advertising tools.
           </p>
         </div>
         <div class="col-md-6 image">
@@ -138,7 +138,8 @@
     <div class="container">
       <div class="row header">
         <div class="col-md-12">
-          <h3>Start gathering your Spotify followers data and insights.</h3>
+          <h3>Start gathering Spotify followers, data and insights</h3>
+          <p>This unique product of Future Fanbase allows you to gather following on Spotify while collecting data of your fans. With our subscription service you can access this data in your own database and see real time results. </p>
           <p>Get 1 month free when signing for a year.</p>
         </div>
       </div>
@@ -146,35 +147,35 @@
         <div class="col-md-4">
           <div class="chart first">
             <div class="quantity">
-              <span class="dollar">$</span>
+              <span class="dollar">€</span>
               <span class="price">499</span>
               <span class="period">/month</span>
             </div>
             <div class="plan-name">Basic</div>
             <div class="specs">
               <div class="spec">
-                <span class="variable">5</span>
-                team members
+                {{-- <span class="variable">1</span> --}}
+                Playlist follow
               </div>
               <div class="spec">
-                <span class="variable">Digital</span>
-                recurring billing
+                <span class="variable">1</span>
+                playlist switch per month 
               </div>
               <div class="spec">
-                <span class="variable">Virtual</span>
-                online terminal
+                <span class="variable">Fan data</span>
+                name, mail, age, country
               </div>
               <div class="spec">
-                <span class="variable">10</span>
-                total products
+                <span class="variable">Insights</span>
+                fans 
               </div>
               <div class="spec">
-                <span class="variable">1.0%</span>
-                Transaction fee
+                <span class="variable">Pixel</span>
+                remarketing &amp; conversion
               </div>
             </div>
             <a class="btn-signup button-clear" href="signup.html">
-              <span>Start Now</span>
+              <span>See More</span>
             </a>
           </div>
         </div>
@@ -182,70 +183,90 @@
           <div class="chart featured">
             <div class="popular">Most popular</div>
             <div class="quantity">
-              <span class="dollar">$</span>
+              <span class="dollar">€</span>
               <span class="price">799</span>
               <span class="period">/month</span>
             </div>
             <div class="plan-name">Advanced</div>
             <div class="specs">
               <div class="spec">
-                <span class="variable">15</span>
-                team members
+                {{-- <span class="variable">15</span> --}}
+                Playlist and Artist follow
               </div>
               <div class="spec">
-                <span class="variable">Digital</span>
-                recurring billing
+                <span class="variable">1</span>
+                Playlist switch per month 
               </div>
               <div class="spec">
-                <span class="variable">Virtual</span>
-                online terminal
+                <span class="variable">Fan data</span>
+                name, mail, age, country,  top artists 
               </div>
               <div class="spec">
-                <span class="variable">15</span>
-                total products
+                <span class="variable">Insights</span>
+                top 10 artists, fans
               </div>
               <div class="spec">
-                <span class="variable">0.5%</span>
-                Transaction fee
+                <span class="variable">Design</span>
+                artist branded 
+              </div>
+              <div class="spec">
+                <span class="variable">5%</span>
+                discount on Spotify marketing
+              </div>
+              <div class="spec">
+                <span class="variable">Pixel</span>
+                remarketing &amp; conversion
               </div>
             </div>
             <a class="btn-signup button-clear" href="signup.html">
-              <span>Start Now</span>
+              <span>See More</span>
             </a>
           </div>
         </div>
         <div class="col-md-4">
           <div class="chart last">
             <div class="quantity">
-              <span class="dollar">$</span>
+              <span class="dollar">€</span>
               <span class="price">1199</span>
               <span class="period">/month</span>
             </div>
             <div class="plan-name">Premium</div>
             <div class="specs">
               <div class="spec">
-                <span class="variable">Unlimited</span>
-                team members
+                {{-- <span class="variable">Unlimited</span> --}}
+                Playlist and artist follow 
               </div>
               <div class="spec">
-                <span class="variable">Digital</span>
-                recurring billing
+                <span class="variable">4</span>
+                playlist switches per month
               </div>
               <div class="spec">
-                <span class="variable">Virtual</span>
-                online terminal
+                <span class="variable">Fan data</span>
+                name, mail, age, country, top artists
               </div>
               <div class="spec">
-                <span class="variable">25</span>
-                total products
+                <span class="variable">Insights</span>
+                playlists, top artists and fans 
               </div>
               <div class="spec">
-                <span class="variable">No</span>
-                Transaction fee
+                <span class="variable">Extra insights</span>
+                popularity measures
+              </div>
+              <div class="spec">
+                <span class="variable">Design</span>
+                artist branded/custom options
+              </div>
+              <div class="spec">
+                <span class="variable">10%</span>
+                discount on Spotify marketing 
+              </div>
+              <div class="spec">
+                <span class="variable">Pixel</span>
+                remarketing &amp; conversion
               </div>
             </div>
             <a class="btn-signup button-clear" href="signup.html">
-              <span>Start Now</span>
+              <span>See More</span>
             </a>
           </div>
         </div>
@@ -257,43 +278,48 @@
     <div class="container">
       <div class="row header">
         <div class="col-md-12">
-            <h3>Don’t underestimate the power of data. And that’s why we’re here.</h3>
+            <h3>Advertising Platforms</h3>
+            <p>These are the main online advertising platforms Future Fanbases uses to promote your profile, channel, music, event, merchandise or any other marketing objective.</p>
         </div>
     </div>
     <div class="row">
         <div class="col-md-4 feature">
           <i style="font-size: 40px; color: rgb(30, 215, 96);" class="fa fa-spotify" aria-hidden="true"></i>
-          <strong>Data And Insights</strong>
-          <p>You can work with international customers right out of the box while you can keep staying in your country.</p>
+          <strong>Spotify</strong>
+          <p>Advertising within the Spotify platform allows you to target music lovers by their listening behaviors</p>
         </div>
         <div class="col-md-4 feature">
           <i style="font-size: 40px; color: rgb(196, 48, 43);" class="fa fa-youtube-play" aria-hidden="true"></i>
-          <strong>Act globally, work as usual</strong>
-          <p>With some customization you can make this product apply to your branding guidelines and amaze your customers at the same time.</p>
+          <strong>YouTube</strong>
+          <p>Youtube is one the most powerful online advertising platforms. Reach out a significant audience and turn viewers into fans.</p>
         </div>
         <div class="col-md-4 feature">
-          <i style="font-size: 40px; color: rgb(59, 89, 152)" class="fa fa-facebook-official" aria-hidden="true"></i>
-          <strong>Develop once, run everywhere</strong>
-          <p>We don't impose any design restrictions, you are free to customize it as you see fit and it's easy to use.</p>
+          <i style="font-size: 40px; color: rgb(59, 89, 152)" class="fa fa-google" aria-hidden="true"></i>
+          <strong>Google Adwords</strong>
+          <p>Google Adwords is the largest online advertising tool and helps you to reach out to a very specific audience, across millions of websites or apps.</p>
         </div>
       </div>
       <div class="row">
         <div class="col-md-4 feature">
+          <i style="font-size: 40px; color: #0057e7" class="fa fa-facebook-official" aria-hidden="true"></i>
+          <strong>Facebook</strong>
+          <p>Advertising on Facebook is very effective when it comes to generate engagement from the audience.</p>
+        </div>
+        <div class="col-md-4 feature">
           <i style="font-size: 40px; color: rgb(195, 42, 163)" class="fa fa-instagram" aria-hidden="true"></i>
-          <strong>Act globally, work as usual</strong>
-          <p>We're always happy to offer support if you happen to have any doubts about anything, if you need
-            some new stuff contact us.</p>
+          <strong>Instagram</strong>
+          <p>Reach out to a highly interactive audience and promote your message on the Instagram timeline or on Instagram Stories.  </p>
         </div>
         <div class="col-md-4 feature">
-          <i style="font-size: 40px; color: #0057e7" class="fa fa-google" aria-hidden="true"></i>
-          <strong>Develop once, run everywhere</strong>
-          <p>We'll be adding some new stuff to make it even more awesome, if you have any idea please let us know.</p>
+          <i style="font-size: 40px; color: rgb(00, 172, 237);" class="fa fa-twitter" aria-hidden="true"></i>
+          <strong>Twitter</strong>
+          <p>With Twitter advertising you can join the discussion and reach out to a very conversational audience.  </p>
         </div>
-        <div class="col-md-4 feature">
-          <i style="font-size: 40px; color: rgb(00, 00, 00);" class="fa fa-wrench" aria-hidden="true"></i>
-          <strong>Act locally, work globally</strong>
-          <p>This thing will work on any device, it has a very easy to understand documentation and is made with SASS.</p>
-        </div>
+      </div>
+      <div class="row text-center">
+        <a class="btn-signup button-clear" href="signup.html">
+              <span>See More</span>
+            </a>
       </div>
     </div>
   </div>
@@ -345,7 +371,7 @@
 
   <div class="cta-section">
     <p>
-      Start gathering your own data!
+      Start mastering your online marketing!
     </p>
     <a href="signup.html">
       Contact us
