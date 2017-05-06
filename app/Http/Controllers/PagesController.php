@@ -16,6 +16,11 @@ class PagesController extends Controller
     	return view('pages.about');
     }
 
+    public function contact()
+    {
+        return view('pages.contact');
+    }
+
     public function products()
     {
     	return view('pages.products');
@@ -39,46 +44,6 @@ class PagesController extends Controller
     public function advertisingPlatforms()
     {
         return view('online-advertising.advertising-platforms');
-    }
-
-    public function services()
-    {
-    	return view('pages.services');
-    }
-
-    public function contact()
-    {
-    	return view('pages.contact');
-    }
-
-    public function spotify()
-    {
-        return view('pages.spotify');
-    }
-
-    public function youtube()
-    {
-        return view('pages.youtube');
-    }
-
-    public function facebook()
-    {
-        return view('pages.facebook');
-    }
-
-    public function instagram()
-    {
-        return view('pages.instagram');
-    }
-
-    public function google()
-    {
-        return view('pages.google');
-    }
-
-    public function contestAndGiveaways()
-    {
-        return view('pages.contests');
     }
 }
 

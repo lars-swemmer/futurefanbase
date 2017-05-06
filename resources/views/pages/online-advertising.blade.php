@@ -1,77 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
-  <title>Future Fanbase - Master Your Online Marketing Campaign</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+@extends('layouts.pages')
 
-  <!-- stylesheets -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" type="text/css" href="{{asset('css/react/compiled/theme.css')}}">
-  <link rel="stylesheet" type="text/css" href="{{asset('css/react/vendor/animate.css')}}">
+@include('layouts.default-nav')
 
-  <!-- javascript -->
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-  <script src="{{asset('js/react/bootstrap/bootstrap.min.js')}}"></script>
-  <script src="{{asset('js/react/theme.js')}}"></script>
-
-  <!--[if lt IE 9]>
-    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-  </head>
-
-<body id="features">
-  <header class="navbar navbar-inverse normal" role="banner">
-    <div class="container">
-      <div class="navbar-header">
-        <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a href="index.html" class="navbar-brand">React</a>
-      </div>
-      <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
-        <ul class="nav navbar-nav navbar-right">
-
-          <li class="active"><a href="#">Home <span class="sr-only">(current)</span></a></li>
-
-          <li class="active"><a href="#">About</a></li>
-
-          <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-              Products <b class="caret"></b>
-            </a>
-            <ul class="dropdown-menu">
-              <li><a href="#">Spotify Following</a></li>
-              <li><a href="#">Spotify Add Release</a></li>
-              <li><a href="#">Unlocks</a></li>
-              <li><a href="#">More In Development</a></li>
-              <li><a href="#">Product Adds: Social &amp; Channel Stats</a></li>
-            </ul>
-          </li>
-          <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-              Online Advertising <b class="caret"></b>
-            </a>
-            <ul class="dropdown-menu">
-              <li><a href="#">Campaign Types</a></li>
-              <li><a href="#">Advertising Platforms</a></li>
-              <li><a href="#">Formats &amp; Targeting</a></li>
-              <li><a href="#">Pricing </a></li>
-              <li><a href="#">Reporting</a></li>
-              <li><a href="#">Full Campaign Creation</a></li>
-              <li><a href="#">Specials</a></li>
-            </ul>
-          </li>
-
-          <li class="active"><a href="#">Contact</a></li>
-          
-        </ul>
-      </nav>
-    </div>
-  </header>
+@section('content')
 
   <div class="services-showcase-section">
     <div class="container">
@@ -81,6 +12,7 @@
           <p>
             You can work with international customers right out of the box while staying in your country.
           </p>
+          <a href="/online-advertising/campaign-types">Read more</a>
         </div>
       </div>
       <div class="row features">
@@ -122,6 +54,7 @@
           <p>
             You can work with international customers right out of the box while staying in your country.
           </p>
+          <a href="online-advertising/advertising-platforms">Read more</a>
         </div>
       </div>
       <div class="row features">
