@@ -36,21 +36,14 @@
 
           <li class="active"><a href="#">Home <span class="sr-only">(current)</span></a></li>
 
-          <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-              About <b class="caret"></b>
-            </a>
-            <ul class="dropdown-menu">
-              <li><a href="#">Future Fanbase</a></li>
-              <li><a href="#">Founders</a></li>
-            </ul>
-          </li>
+          <li class="active"><a href="#">About</a></li>
 
           <li class="dropdown">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
               Products <b class="caret"></b>
             </a>
             <ul class="dropdown-menu">
+              <li><a href="#">Products</a></li>
               <li><a href="#">Spotify Following</a></li>
               <li><a href="#">Spotify Add Release</a></li>
               <li><a href="#">Unlocks</a></li>
@@ -60,9 +53,10 @@
           </li>
           <li class="dropdown">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-              Online Campaigns <b class="caret"></b>
+              Online Advertising <b class="caret"></b>
             </a>
             <ul class="dropdown-menu">
+              <li><a href="#">Online Advertising</a></li>
               <li><a href="#">Campaign Types</a></li>
               <li><a href="#">Advertising Platforms</a></li>
               <li><a href="#">Formats &amp; Targeting</a></li>

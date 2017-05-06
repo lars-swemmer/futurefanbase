@@ -16,9 +16,29 @@ class PagesController extends Controller
     	return view('pages.about');
     }
 
-    public function work()
+    public function products()
     {
-    	return view('pages.work');
+    	return view('pages.products');
+    }
+
+    public function spotifyFans()
+    {
+        return view('products.spotifyfans');
+    }
+
+    public function onlineAdvertising()
+    {
+        return view('pages.online-advertising');
+    }
+
+    public function campaignTypes()
+    {
+        return view('online-advertising.campaign-types');
+    }
+
+    public function advertisingPlatforms()
+    {
+        return view('online-advertising.advertising-platforms');
     }
 
     public function services()

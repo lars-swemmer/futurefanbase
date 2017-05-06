@@ -14,6 +14,14 @@
 /* Pages */
 Route::get('/', 'PagesController@index');
 Route::get('/about', 'PagesController@about');
+
+Route::get('/products', 'PagesController@products');
+Route::get('/products/spotify-fans', 'PagesController@spotifyFans');
+
+Route::get('/online-advertising', 'PagesController@onlineAdvertising');
+Route::get('/online-advertising/campaign-types', 'PagesController@campaignTypes');
+Route::get('/online-advertising/advertising-platforms', 'PagesController@advertisingPlatforms');
+
 // Route::get('/work', 'PagesController@work');
 Route::get('/services', 'PagesController@services');
 Route::get('/contact', 'PagesController@contact');
