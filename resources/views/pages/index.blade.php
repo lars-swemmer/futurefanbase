@@ -14,8 +14,8 @@
             With years of experience in the music industry we know what’s important to artists and music brands.
         </p>
         <div class="cta animated fadeInDown">
-            <a href="features.html" class="button-outline">See products</a>
-            <a href="signup.html" class="button">Contact us</a>
+            <a href="/products" class="button-outline">See products</a>
+            <a href="/contact" class="button">Contact us</a>
         </div>
         <div class="img"></div>
     </div>
@@ -98,7 +98,7 @@
                 remarketing &amp; conversion
               </div>
             </div>
-            <a class="btn-signup button-clear" href="signup.html">
+            <a class="btn-signup button-clear" href="/online-advertising/advertising-platforms">
               <span>See More</span>
             </a>
           </div>
@@ -142,7 +142,7 @@
                 remarketing &amp; conversion
               </div>
             </div>
-            <a class="btn-signup button-clear" href="signup.html">
+            <a class="btn-signup button-clear" href="/online-advertising/advertising-platforms">
               <span>See More</span>
             </a>
           </div>
@@ -189,7 +189,7 @@
                 remarketing &amp; conversion
               </div>
             </div>
-            <a class="btn-signup button-clear" href="signup.html">
+            <a class="btn-signup button-clear" href="/online-advertising/advertising-platforms">
               <span>See More</span>
             </a>
           </div>
@@ -241,7 +241,7 @@
         </div>
       </div>
       <div class="row text-center">
-        <a class="btn-signup button-clear" href="signup.html">
+        <a class="btn-signup button-clear" href="/online-advertising/advertising-platforms">
               <span>See More</span>
             </a>
       </div>
@@ -297,7 +297,7 @@
     <p>
       Start mastering your online marketing!
     </p>
-    <a href="signup.html">
+    <a href="/contact">
       Contact us
     </a>
   </div>

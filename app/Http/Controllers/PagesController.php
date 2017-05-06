@@ -46,4 +46,3 @@ class PagesController extends Controller
         return view('online-advertising.advertising-platforms');
     }
 }
-
