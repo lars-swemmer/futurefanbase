@@ -18,7 +18,7 @@
         <div class="col-md-8 message">
           <h3>Send us a message</h3>
           <p>
-            We  would love to hear from you!<br />  Mail or give us a call.
+            We  would love to hear from you!<br />  
           </p>
           <form role="form" id="contact-form" method="post">
             <div class="form-group">
@@ -46,8 +46,8 @@
           <div class="address">
             <h3>Our Address</h3>
             <p>
-              Landstraat 154, <br />
-              Bussum, 1401ET<br />
+              Landstraat, 154<br />
+              1401 ET, Bussum<br />
               Netherlands
             </p>
           </div>
