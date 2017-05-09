@@ -38,115 +38,151 @@
     <div class="container">
       <div class="row header">
         <div class="col-md-12">
-          <h3>Different plans for everyone</h3>
-          <p>Choose the pricing that fits your business needs</p>
+          <h3>Subscription Plans</h3>
+          <p>Choose the subscription that fits your needs.</p>
         </div>
       </div>
 
       <div class="row charts">
         <div class="col-md-4">
-          <div class="chart first">
-            <div class="plan-name">Freelance</div>
+          <div class="chart first" style="padding: 20px;">
+            <div class="plan-name">Basic</div>
             <div class="quantity">
-              <span class="dollar">$</span>
-              <span class="price">29</span>
+              <span class="dollar">€</span>
+              <span class="price">499</span>
               <span class="period">/month</span>
             </div>
             <div class="specs">
-              <div class="spec">
-                <span class="variable">5</span>
-                team members
+              <div class="spec" style="font-size: 13px;">
+                {{-- <span class="variable">1</span> --}}
+                Playlist follow
               </div>
-              <div class="spec">
-                <span class="variable">Digital</span>
-                recurring billing
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">1</span>
+                playlist switch per month 
               </div>
-              <div class="spec">
-                <span class="variable">Virtual</span>
-                online terminal
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">Fan data</span>
+                name, mail, age, country
               </div>
-              <div class="spec">
-                <span class="variable">10</span>
-                total products
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">Insights</span>
+                fans 
               </div>
-              <div class="spec">
-                <span class="variable">1.0%</span>
-                Transaction fee
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">Measures</span>
+                followers
+              </div>
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">Design</span>
+                artist branded
+              </div>
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">5%</span>
+                discount on a Spotify campaign
+              </div>
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">Pixel</span>
+                remarketing &amp; conversion
               </div>
             </div>
             <a class="btn-signup button-clear" href="signup.html">
-              <span>Start free trial</span>
+              <span>Contact us</span>
             </a>
           </div>
         </div>
         <div class="col-md-4">
-          <div class="chart featured">
+          <div class="chart featured" style="padding: 20px 20px 40px 20px;">
             <img src="/images/ribbon.png" class="popular" alt="ribbon" />
-            <div class="plan-name">Profesional</div>
+            <div class="plan-name">Advanced</div>
             <div class="quantity">
-              <span class="dollar">$</span>
-              <span class="price">79</span>
+              <span class="dollar">€</span>
+              <span class="price">799</span>
               <span class="period">/month</span>
             </div>            
             <div class="specs">
-              <div class="spec">
-                <span class="variable">15</span>
-                team members
+              <div class="spec" style="font-size: 13px;">
+                {{-- <span class="variable">1</span> --}}
+                Playlist and artist follow
               </div>
-              <div class="spec">
-                <span class="variable">Digital</span>
-                recurring billing
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">1</span>
+                playlist switch per month 
               </div>
-              <div class="spec">
-                <span class="variable">Virtual</span>
-                online terminal
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">Fan data</span>
+                name, mail, age, country
               </div>
-              <div class="spec">
-                <span class="variable">15</span>
-                total products
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">Insights</span>
+                top 10 artists, fans
               </div>
-              <div class="spec">
-                <span class="variable">0.5%</span>
-                Transaction fee
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">Measures</span>
+                followers
+              </div>
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">Design</span>
+                artist branded
+              </div>
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">7.5%</span>
+                discount on a Spotify campaign
+              </div>
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">Pixel</span>
+                remarketing &amp; conversion
               </div>
             </div>
             <a class="btn-signup button-clear" href="signup.html">
-              <span>Start free trial</span>
+              <span>Contact us</span>
             </a>
           </div>
         </div>
         <div class="col-md-4">
-          <div class="chart last">
+          <div class="chart last" style="padding: 20px;">
             <div class="plan-name">Premium</div>
             <div class="quantity">
-              <span class="dollar">$</span>
-              <span class="price">119</span>
+              <span class="dollar">€</span>
+              <span class="price">1199</span>
               <span class="period">/month</span>
             </div>
             <div class="specs">
-              <div class="spec">
-                <span class="variable">Unlimited</span>
-                team members
+              <div class="spec" style="font-size: 13px;">
+                {{-- <span class="variable">1</span> --}}
+                Playlist and artist follow
               </div>
-              <div class="spec">
-                <span class="variable">Digital</span>
-                recurring billing
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">3</span>
+                playlist switch per month 
               </div>
-              <div class="spec">
-                <span class="variable">Virtual</span>
-                online terminal
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">Fan data</span>
+                name, mail, age, country
               </div>
-              <div class="spec">
-                <span class="variable">25</span>
-                total products
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">Insights</span>
+                top artists, fans
               </div>
-              <div class="spec">
-                <span class="variable">No</span>
-                Transaction fee
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">Measures</span>
+                followers, playlists, popularity
+              </div>
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">Design</span>
+                artist branded, custom options
+              </div>
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">10%</span>
+                discount on a Spotify campaign
+              </div>
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">Pixel</span>
+                remarketing &amp; conversion
               </div>
             </div>
             <a class="btn-signup button-clear" href="signup.html">
-              <span>Start free trial</span>
+              <span>Contact us</span>
             </a>
           </div>
         </div>        
@@ -166,28 +202,34 @@
             <div class="col-md-4 feature">
               <img src="/images/circle-icons/one-color/creditcard.png" alt="creditcard" />
               <strong>Generate your own data </strong>
+              <p>Your data stays your own and can only be used to optimize your online marketing. </p>
             </div>
             <div class="col-md-4 feature">
               <img src="/images/circle-icons/one-color/dev.png" alt="dev" />
               <strong>Clear fan insights &amp; results  </strong>
+              <p>In the easy to read dashboard you can find clear fan insights and results of your marketing efforts. </p>
             </div>
             <div class="col-md-4 feature">
               <img src="/images/circle-icons/one-color/globe.png" alt="globe" />
               <strong>Less steps: easier to follow </strong>
+              <p>The future fan has to take less actions to become your follower on Spotify. </p>
             </div>
           </div>
           <div class="row">
             <div class="col-md-4 feature">
               <img src="/images/circle-icons/one-color/support.png" alt="support" />
-              <strong>Pixels: remarketing and conversion </strong>
+              <strong>Pixels: remarketing &amp; conversion </strong>
+              <p>With this pixel we can retarget your fans and measure conversion of the campaign.</p>
             </div>
             <div class="col-md-4 feature">
               <img src="/images/circle-icons/one-color/mail.png" alt="mail" />
-              <strong>Separate server: your branding only</strong>
+              <strong>Separate server &amp; your branding</strong>
+              <p>This product will run on your own server and with your branding only.</p>
             </div>
             <div class="col-md-4 feature">
               <img src="/images/circle-icons/one-color/locked.png" alt="locked" />
               <strong>Optimized online marketing</strong>
+              <p>With the generated data we can continually keep analyzing and optimizing your online marketing activities.</p>
             </div>
           </div>
         </div>
@@ -197,9 +239,9 @@
         <div class="col-md-12">
           <div class="sections">
             <div class="section active">
-              <h4>Continually optimize all marketing activities </h4>
+              <h4>Spotify Campaign</h4>
               <p style="font-size: 15px; color: #6C7279; line-height: 30px;">
-                Promoting this product through Future Fanbase has a big advantage when you want to fine tune your online marketing activities. By the generated data and the implementation of the remarketing and conversion pixel, we can keep optimizing your campaign and measure real results. 
+                Promoting this product through Future Fanbase has a big advantage. By the generated data and the implementation of the remarketing and conversion pixel we can keep optimizing and analyzing your campaign, measure real results and thus keep increasing your following on Spotify.
               </p>
             </div>
             

@@ -32,7 +32,7 @@
 	        <div class="col-md-4 feature">
 	          <i style="font-size: 40px; color: rgb(59, 89, 152)" class="fa fa-google" aria-hidden="true"></i>
 	          <strong>Google Adwords</strong>
-	          <p>Google Adwords is the largest online advertising tool and helps you to reach out to a very specific audience, across millions of websites or apps.</p>
+	          <p>Google Adwords is the largest online advertising tool and helps you to reach out to a specific audience, across millions of websites. </p>
 	        </div>
 	      </div>
 	      <div class="row">
@@ -63,7 +63,7 @@
       <div class="row header col-md-offset-2 col-md-8">
         <h3>Formats &amp; Targeting</h3>
         <p>
-          Every platform has it’s own audience, unique format options and targeting tools. Using multiple platforms to market your message can strengthen your campaign.
+          Every platform has it’s own audience, unique format options and targeting tools. Using multiple platforms to market your message can strengthen your campaign. See  the summary of options below.
         </p>
       </div>
       <div class="row">
@@ -434,8 +434,8 @@
       </div>
       <div class="row message">
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
-          <a href="signup.html">link</a>.
+          Want to see the full list of formats and targeting options?
+          <a href="signup.html">Contact us now.</a>
         </p>
       </div>  
     </div>

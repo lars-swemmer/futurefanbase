@@ -18,11 +18,11 @@
           <div class="content">
             <h3>This Is: Future Fanbase</h3>
             <p>
-              Future Fanbase is an online marketing agency that will help you reach your goals by implementing and creating the right strategy for your online marketing campaign. With these three ingredients: data, online advertising and strategy, we are able to succeed in meeting your online marketing objectives.
+              Future Fanbase is an online marketing agency that will help you to reach your goals by implementing and creating the right strategy for your online marketing campaign. With these three ingredients: data, online advertising and strategy, we are able to succeed in meeting your online marketing objectives.
             </p>
             <p>
               <h4>Data</h4>
-              Future Fanbase focusses on developing products to generate data of your fans. This data is always accessible in your own database. In the easy to read dashboard you will also find detailed insights and real time results. 
+              Future Fanbase focusses on developing products to generate data of your fans. Data provides powerful insights and is important in analyzing and optimizing all of your online marketing activities. By using our products you’ll always have access to your own database where you can track results and retrieve insights, while we are able to further fine tune your online campaign.
             </p>
             <p>
               By using our products we are able to fine tune your online marketing campaign by creating fan profiles, custom audiences, lookalike audiences and make use of specific remarketing and conversion tools.
@@ -54,7 +54,7 @@
                 <img class="img-responsive" src="https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-1/15109530_10207966692588470_6194946528084313786_n.jpg?oh=d5cd54f9400a523196a7dcc5984cd9cc&oe=597533FE">
                 <h3>Boneca Verhagen</h3>
                 <p>
-                  You have complete control over the look & feel of your website, we offer the best quality so you take.
+                  Communication science (University of Amsterdam), worked at Spinnin’ Records, now co-founder and Managing Director of Future Fanbase, favorite music genres: dance pop, indie poptimism, indietronica and house.
                 </p>
                 <h6 style="color: #3C92C5">Specialties</h6>
                 <ul>
@@ -74,7 +74,7 @@
                 <img class="img-responsive" src="https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/12743971_993697550676580_7739028443288921080_n.jpg?oh=097a094057f0d189a43a277e1f9f688e&oe=597BCD1F">
                 <h3>Lars Swemmer</h3>
                 <p>
-                  You have complete control over the look & feel of your website, we offer the best quality so you take.
+                  Communication and Multimedia Design (Rotterdam University of Applied Sciences), worked at Spinnin’ Records, now co-founder of Future Fanbase and Head of Data at Martin Garrix, favorite music genres: techno and deep house.
                 </p>
                 <h6 style="color: #3C92C5">Specialties</h6>
                 <ul>

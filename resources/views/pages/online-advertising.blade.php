@@ -10,7 +10,7 @@
         <div class="col-md-12">
           <h3>Campaign Types </h3>
           <p>
-            You can work with international customers right out of the box while staying in your country.
+            Grow fans, increase views, drive sales or generate traffic with these four campaign types.
           </p>
           <a href="/online-advertising/campaign-types">Read more</a>
         </div>
@@ -20,14 +20,14 @@
           <img src="images/circle-icons/full-color/globe.png" alt="globe" />
           <div class="info">
             <strong>Social &amp; Channel Growth</strong>
-            <p>You can work with international customers right out of the box while staying in your country.</p>
+            <p>Grow your fanbase on your social, music or video channel. </p>
           </div>
         </div>
         <div class="col-md-6 feature">
           <img src="images/circle-icons/full-color/location.png" alt="location" />
           <div class="info">
             <strong>Youtube View Booster</strong>
-            <p>With some customization you can make this product apply to your branding guidelines and amaze your customers at the same time.</p>
+            <p>Let your view counter reach the highest heights.</p>
           </div>
         </div>
       </div>
@@ -36,14 +36,14 @@
           <img src="images/circle-icons/full-color/smartphone.png" alt="smartphone" />
           <div class="info">
             <strong>Music, Events &amp; More</strong>
-            <p>We don't impose any design restrictions, you are free to customize it as you see fit and it's easy to use.</p>
+            <p>Promote and reach the targets you desire.</p>
           </div>
         </div>
         <div class="col-md-6 feature">
           <img src="images/circle-icons/full-color/support.png" alt="support" />
           <div class="info">
-            <strong>Special: DJ Mag 2017</strong>
-            <p>We'll be adding some new stuff to make it even more awesome, if you have any idea please let us know.</p>
+            <strong>Special: DJ MAG TOP 100 - 2017</strong>
+            <p>Increase awareness, generate traffic and let your fans vote! </p>
           </div>
         </div>
       </div>
@@ -52,7 +52,7 @@
         <div class="col-md-12">
           <h3>Advertising Platforms</h3>
           <p>
-            You can work with international customers right out of the box while staying in your country.
+            Future Fanbases uses several promotion tools to reach your marketing objectives.
           </p>
           <a href="online-advertising/advertising-platforms">Read more</a>
         </div>
@@ -62,21 +62,21 @@
           
           <div class="info" style="margin-left: 0;">
             <strong>Platform Types</strong>
-            <p>You can work with international customers right out of the box while staying in your country.</p>
+            <p>Check out the different advertising platforms Future Fanbase uses to promote your message. </p>
           </div>
         </div>
         <div class="col-md-4 feature">
           
           <div class="info" style="margin-left: 0;">
-            <strong>Formates And Targeting</strong>
-            <p>With some customization you can make this product apply to your branding guidelines and amaze your customers at the same time.</p>
+            <strong>Formates &amp; Targeting</strong>
+            <p>Every platform has it’s own audience, unique format options and targeting tools.</p>
           </div>
         </div>
         <div class="col-md-4 feature">
           
           <div class="info" style="margin-left: 0;">
             <strong>Pricing</strong>
-            <p>With some customization you can make this product apply to your branding guidelines and amaze your customers at the same time.</p>
+            <p>We have a clear pricing policy. Our fees are based on a responsibility fee plus an implementation fee. </p>
           </div>
         </div>
       </div>
@@ -88,11 +88,9 @@
           <img src="images/services1.png" class="img-responsive animated fadeInUp" alt="services1">
         </div>
         <div class="col-md-6 info">
-          <h3>Custom Mades</h3>
+          <h3>Custom Solutions</h3>
           <p>
-            You will find a variety of ways to present your services such as grids and lists.
-            <br>
-            We plan to update this product with more pages and features as we keep on going.
+            Didn’t find the campaign or advertising platform you were looking for? Check out our custom solutions!
           </p>
         </div>
       </div>

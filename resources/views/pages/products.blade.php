@@ -31,12 +31,12 @@
           </div>
 
           <div class="project">
-            <h3>Coming Soon: Unlocks</h3>
+            <h3>Coming Soon: Reveals</h3>
             <div class="screen">
               <img src="images/portfolio1.png" class="img-responsive" alt="portfolio1" />
             </div>
             <p class="description text-center">
-              T.B.A.
+              Do you have some exclusive content to reveal to your fans? This product will drive traffic and generate data. More to be announced… 
             </p>
             <div class="divider"></div>
             <div class="visit">

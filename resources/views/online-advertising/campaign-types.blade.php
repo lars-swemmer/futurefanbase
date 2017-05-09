@@ -9,7 +9,7 @@
     <div class="container">
       <div class="row header">
         <h3>Social &amp; Channel Growth</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        <p>Grow your fanbase on the medium you desire.</p>
       </div>
       <div class="row">
         <div class="col-md-12 tabs-wrapper">
@@ -93,8 +93,8 @@
     <div class="container">
       <div class="row header">
         <div class="col-md-12">
-          <h2>Verzin nog wel wat met promotion</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+          <h2>Reach out!</h2>
+          <p>Boost views, drive sales, increase awareness or generate traffic with the following campaign types.</p>
         </div>
       </div>
       <div class="row feature">
@@ -112,7 +112,7 @@
         <div class="col-md-6 info">
           <h4>Music, Events &amp; More </h4>
           <p>
-           Promote your music, event or new merchandise. With our experience we can advise on using the right type of content, advertising tools and the required budget to reach your desired goal. 
+           Promote your music, event or new merchandise. We can advise on using the right type of content, advertising tools, targeting and the required budget to reach your desired goal.
           </p>
         </div>
         <div class="col-md-6 image">
@@ -121,11 +121,9 @@
       </div>
       <div class="row feature last">
         <div class="col-md-6 info">
-          <h4>Specials: DJ Mag 2017</h4>
+          <h4>Special: DJ MAG TOP 100 - 2017 </h4>
           <p>
-           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-           tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-           quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.
+           Increase awareness, drive traffic and let your fans vote! With the right tools we can create a top of mind campaign so fans won’t forget about you when they’re voting for their top dj’s.
           </p>
         </div>
         <div class="col-md-6 image">

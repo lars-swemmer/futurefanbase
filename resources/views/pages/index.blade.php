@@ -8,7 +8,7 @@
     <div class="container">
         <h1 class="hero-text animated fadeInDown">
             Master your online <br />
-            marketing campaign.
+            marketing campaign
         </h1>
         <p class="sub-text animated fadeInDown">
             With years of experience in the music industry we know what’s important to artists and music brands.
@@ -62,14 +62,14 @@
     <div class="container">
       <div class="row header">
         <div class="col-md-12">
-          <h3>Start gathering Spotify followers, data and insights</h3>
+          <h3>Start gathering Spotify fans, data and insights</h3>
           <p>This unique product of Future Fanbase allows you to gather following on Spotify while collecting data of your fans. With our subscription service you can access this data in your own database and see real time results. </p>
           <p>Get 1 month free when signing for a year.</p>
         </div>
       </div>
       <div class="row charts">
         <div class="col-md-4">
-          <div class="chart first">
+          <div class="chart first" style="padding: 20px;">
             <div class="quantity">
               <span class="dollar">€</span>
               <span class="price">499</span>
@@ -77,23 +77,35 @@
             </div>
             <div class="plan-name">Basic</div>
             <div class="specs">
-              <div class="spec">
+              <div class="spec" style="font-size: 13px;">
                 {{-- <span class="variable">1</span> --}}
                 Playlist follow
               </div>
-              <div class="spec">
+              <div class="spec" style="font-size: 13px;">
                 <span class="variable">1</span>
                 playlist switch per month 
               </div>
-              <div class="spec">
+              <div class="spec" style="font-size: 13px;">
                 <span class="variable">Fan data</span>
                 name, mail, age, country
               </div>
-              <div class="spec">
+              <div class="spec" style="font-size: 13px;">
                 <span class="variable">Insights</span>
                 fans 
               </div>
-              <div class="spec">
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">Measures</span>
+                followers
+              </div>
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">Design</span>
+                artist branded
+              </div>
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">5%</span>
+                discount on a Spotify campaign
+              </div>
+              <div class="spec" style="font-size: 13px;">
                 <span class="variable">Pixel</span>
                 remarketing &amp; conversion
               </div>
@@ -104,7 +116,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <div class="chart featured">
+          <div class="chart featured" style="padding: 20px;">
             <div class="popular">Most popular</div>
             <div class="quantity">
               <span class="dollar">€</span>
@@ -112,32 +124,36 @@
               <span class="period">/month</span>
             </div>
             <div class="plan-name">Advanced</div>
-            <div class="specs">
-              <div class="spec">
-                {{-- <span class="variable">15</span> --}}
-                Playlist and Artist follow
+             <div class="specs">
+              <div class="spec" style="font-size: 13px;">
+                {{-- <span class="variable">1</span> --}}
+                Playlist and artist follow
               </div>
-              <div class="spec">
+              <div class="spec" style="font-size: 13px;">
                 <span class="variable">1</span>
-                Playlist switch per month 
+                playlist switch per month 
               </div>
-              <div class="spec">
+              <div class="spec" style="font-size: 13px;">
                 <span class="variable">Fan data</span>
-                name, mail, age, country,  top artists 
+                name, mail, age, country
               </div>
-              <div class="spec">
+              <div class="spec" style="font-size: 13px;">
                 <span class="variable">Insights</span>
                 top 10 artists, fans
               </div>
-              <div class="spec">
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">Measures</span>
+                followers
+              </div>
+              <div class="spec" style="font-size: 13px;">
                 <span class="variable">Design</span>
-                artist branded 
+                artist branded
               </div>
-              <div class="spec">
-                <span class="variable">5%</span>
-                discount on Spotify marketing
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">7.5%</span>
+                discount on a Spotify campaign
               </div>
-              <div class="spec">
+              <div class="spec" style="font-size: 13px;">
                 <span class="variable">Pixel</span>
                 remarketing &amp; conversion
               </div>
@@ -148,7 +164,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <div class="chart last">
+          <div class="chart last" style="padding: 20px;">
             <div class="quantity">
               <span class="dollar">€</span>
               <span class="price">1199</span>
@@ -156,35 +172,35 @@
             </div>
             <div class="plan-name">Premium</div>
             <div class="specs">
-              <div class="spec">
-                {{-- <span class="variable">Unlimited</span> --}}
-                Playlist and artist follow 
+              <div class="spec" style="font-size: 13px;">
+                {{-- <span class="variable">1</span> --}}
+                Playlist and artist follow
               </div>
-              <div class="spec">
-                <span class="variable">4</span>
-                playlist switches per month
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">3</span>
+                playlist switch per month 
               </div>
-              <div class="spec">
+              <div class="spec" style="font-size: 13px;">
                 <span class="variable">Fan data</span>
-                name, mail, age, country, top artists
+                name, mail, age, country
               </div>
-              <div class="spec">
+              <div class="spec" style="font-size: 13px;">
                 <span class="variable">Insights</span>
-                playlists, top artists and fans 
+                top artists, fans
               </div>
-              <div class="spec">
-                <span class="variable">Extra insights</span>
-                popularity measures
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">Measures</span>
+                followers, playlists, popularity
               </div>
-              <div class="spec">
+              <div class="spec" style="font-size: 13px;">
                 <span class="variable">Design</span>
-                artist branded/custom options
+                artist branded, custom options
               </div>
-              <div class="spec">
+              <div class="spec" style="font-size: 13px;">
                 <span class="variable">10%</span>
-                discount on Spotify marketing 
+                discount on a Spotify campaign
               </div>
-              <div class="spec">
+              <div class="spec" style="font-size: 13px;">
                 <span class="variable">Pixel</span>
                 remarketing &amp; conversion
               </div>
@@ -198,6 +214,96 @@
     </div>
   </div>
 
+
+
+
+{{-- <div class="features-tabs-section">
+    <div class="container">
+      <div class="row header">
+        <h3>Social &amp; Channel Growth</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+      </div>
+      <div class="row">
+        <div class="col-md-12 tabs-wrapper">
+          <ul class="nav nav-tabs">
+            <li class="active"><a href="#facebook" data-toggle="tab">Facebook</a></li>
+            <li><a href="#instagram" data-toggle="tab">Instagram</a></li>
+            <li><a href="#twitter" data-toggle="tab">Twitter</a></li>
+            <li><a href="#youtube" data-toggle="tab">YouTube</a></li>
+            <li><a href="#spotify" data-toggle="tab">Spotify</a></li>
+          </ul>
+
+          <div class="tab-content">
+            <div class="tab-pane fade in active" id="facebook">
+              <div class="col-md-6 info">
+                <h4>Facebook</h4>
+                <p>
+                  Facebook is a great way to connect with your fans. With over a billon active users it has become the world’s largest social medium and a essential marketing platform.</p>
+                  <p>Future Fanbase is able to grow your following, increase reach and raise awareness on this medium. By using the right type of advertisements and targeting tools we will find you the most engaging fans at the best rate. 
+                </p>
+              </div>
+              <div class="col-md-6 image">
+                <img src="/images/tabs/pic1.png" class="img-responsive" alt="picture1" />
+              </div>
+            </div>
+            <div class="tab-pane fade" id="instagram">
+              <div class="col-md-6 image">
+                <img src="/images/portfolioitem1.png" class="img-responsive" alt="picture2" />
+              </div>
+              <div class="col-md-6 info">
+                <h4>Instagram</h4>
+                <p>
+                  Instagram has the most engaging audience of all social media and with it’s 700 million users, this platform can’t be missed in your social strategy.</p>
+                  <p>
+                  On Instagram visual content is key. By implementing the right campaign with specific targeting, Future Fanbase can help you generate higher reach, attract more fans and keep them involved.
+                </p>
+              </div>                
+            </div>
+            <div class="tab-pane fade" id="twitter">
+              <div class="col-md-6 info">
+                <h4>Twitter</h4>
+                <p>
+                  Twitter is a platform for up to date observations and viral trends. With it’s 300 million active users the conversation is still ongoing.</p>
+                  <p>Whether it’s to increase following or promote tweets, Future Fanbase will optimize your campaign to make sure to reach the most conversational and interactive fans.
+                </p>
+              </div>
+              <div class="col-md-6 image">
+                <img src="/images/tabs/pic2.png" class="img-responsive" style="position: relative;top: 15px;" alt="picture3" />
+              </div>
+            </div>
+            <div class="tab-pane fade" id="youtube">
+              <div class="col-md-6 image">
+                <img src="/images/tabs/pic1.png" class="img-responsive" alt="picture4" />
+              </div>
+              <div class="col-md-6 info">
+                <h4>YouTube</h4>
+                <p>
+                 YouTube has over a billion users, and every day, people watch hundreds of millions of videos. To make sure your channel is being discovered and watched, it’s important to build a solid fanbase.</p>
+                 <p>Fans are the first to see your videos and share them with the rest of the world. With the right advertisements and call to actions we can make sure people are watching your videos and hitting that subscribe button as well. 
+                </p>
+              </div>
+            </div>
+            <div class="tab-pane fade" id="spotify">
+              <div class="col-md-6 info">
+                <h4>Spotify</h4>
+                <p>
+                 Spotify has the largest paid user-base in the music streaming industry and has a total of 100 million users. The key to getting your releases in front of fans, is make sure they follow your profile and playlists.</p>
+                 <p>Fans who follow you will see your new music in their Release Radar, through notifications and mail outs. Future Fanbase has a unique service where we can promote your profile and playlists at the same time, while generating data.
+                </p>
+              </div>
+              <div class="col-md-6 image">
+                <img src="/images/tabs/pic2.png" class="img-responsive" style="position: relative;top: 15px;" alt="picture3" />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div> --}}
+
+
+
+
   <div class="features-grid-section testimonials-section"> <!-- testimonials section is quick hack, dit een juiste class geven -->
     <div class="container">
       <div class="row header">
@@ -210,7 +316,7 @@
         <div class="col-md-4 feature">
           <i style="font-size: 40px; color: rgb(30, 215, 96);" class="fa fa-spotify" aria-hidden="true"></i>
           <strong>Spotify</strong>
-          <p>Advertising within the Spotify platform allows you to target music lovers by their listening behaviors</p>
+          <p>Advertising within the Spotify platform allows you to target music lovers by their listening behaviors.</p>
         </div>
         <div class="col-md-4 feature">
           <i style="font-size: 40px; color: rgb(196, 48, 43);" class="fa fa-youtube-play" aria-hidden="true"></i>
@@ -220,7 +326,7 @@
         <div class="col-md-4 feature">
           <i style="font-size: 40px; color: rgb(59, 89, 152)" class="fa fa-google" aria-hidden="true"></i>
           <strong>Google Adwords</strong>
-          <p>Google Adwords is the largest online advertising tool and helps you to reach out to a very specific audience, across millions of websites or apps.</p>
+          <p>Google Adwords is the largest online advertising tool and helps you to reach out to a specific audience, across millions of websites.</p>
         </div>
       </div>
       <div class="row">
@@ -248,7 +354,7 @@
     </div>
   </div>
 
-  <div class="testimonials-section">
+  {{-- <div class="testimonials-section">
     <div class="container">
       <div class="row header">
         <div class="col-md-12">
@@ -291,18 +397,18 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> --}}
 
-  <div class="cta-section">
+ {{--  <div class="cta-section">
     <p>
       Start mastering your online marketing!
     </p>
     <a href="/contact">
       Contact us
     </a>
-  </div>
+  </div> --}}
 
-  <div class="clients-section">
+  {{-- <div class="clients-section">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
@@ -320,9 +426,9 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> --}}
 
-  <div class="main-footer main-footer--white">
+  <div class="main-footer main-footer--white" style="border-top: 1px solid #E6E6E8">
     <div class="container">
       <div class="row">
         <div class="col-sm-3 menu">
