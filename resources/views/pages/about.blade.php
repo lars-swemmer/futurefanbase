@@ -25,9 +25,6 @@
               Future Fanbase focusses on developing products to generate data of your fans. Data provides powerful insights and is important in analyzing and optimizing all of your online marketing activities. By using our products you’ll always have access to your own database where you can track results and retrieve insights, while we are able to further fine tune your online campaign.
             </p>
             <p>
-              By using our products we are able to fine tune your online marketing campaign by creating fan profiles, custom audiences, lookalike audiences and make use of specific remarketing and conversion tools.
-            </p>
-            <p>
               <h4>Online Advertising</h4>
               Whether it’s to increase following, branding, promote your music or sell new products. With the right combination of online advertising platforms, formats and targeting, we will promote your marketing message to the right audience in order to reach your objectives.
             </p>
@@ -56,6 +53,7 @@
                 <p>
                   Communication science (University of Amsterdam), worked at Spinnin’ Records, now co-founder and Managing Director of Future Fanbase, favorite music genres: dance pop, indie poptimism, indietronica and house.
                 </p>
+                <br />
                 <h6 style="color: #3C92C5">Specialties</h6>
                 <ul>
                   <li>Online Advertising</li>
@@ -76,6 +74,7 @@
                 <p>
                   Communication and Multimedia Design (Rotterdam University of Applied Sciences), worked at Spinnin’ Records, now co-founder of Future Fanbase and Head of Data at Martin Garrix, favorite music genres: techno and deep house.
                 </p>
+                <br />
                 <h6 style="color: #3C92C5">Specialties</h6>
                 <ul>
                   <li>Data Engineering</li>
