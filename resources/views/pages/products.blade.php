@@ -20,7 +20,7 @@
               <img src="images/portfolio1.png" class="img-responsive" alt="portfolio1" />
             </div>
             <p class="description">
-              This unique product of Future Fanbase allows you to gather following on Spotify while collecting data of your fans. You will get a dedicated branded page on a separately hosted server. With the Connect &amp; Follow button it’s easier for people to follow and they’re only one click away to become your fan.
+              This product of Future Fanbase allows you to gather following on Spotify while collecting data of your fans. You will get a dedicated branded page on a separately hosted server. With the Connect &amp; Follow button it’s easier for people to follow and they’re only one click away to become your next fan. 
             </p>
             <div class="divider"></div>
             <div class="visit">
@@ -37,6 +37,21 @@
             </div>
             <p class="description text-center">
               Do you have some exclusive content to reveal to your fans? This product will drive traffic and generate data. More to be announced… 
+            </p>
+            <div class="divider"></div>
+            <div class="visit">
+              <button style="background: grey" disabled class="btn-shadow btn-shadow-primary" href="portfolio-item.html">
+                Be Patient...
+              </button>
+            </div>
+          </div>
+          <div class="project">
+            <h3>Coming Soon: Add to playlist </h3>
+            <div class="screen">
+              <img src="images/portfolio1.png" class="img-responsive" alt="portfolio1" />
+            </div>
+            <p class="description text-center">
+              Let fans add your new release directly to their favorite Spotify playlist. More to be announced…
             </p>
             <div class="divider"></div>
             <div class="visit">
