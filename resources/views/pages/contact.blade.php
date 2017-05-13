@@ -64,10 +64,10 @@
               +31 6 1444 2666
             </p>
           </div>
-          <div class="social">
+          {{-- <div class="social">
             <a href="#" class="fb"><img src="/images/social/fb.png" alt="facebook" /></a>
             <a href="#" class="tw"><img src="/images/social/tw.png" alt="twitter" /></a>
-          </div>
+          </div> --}}
         </div>
       </div>
     </div>
