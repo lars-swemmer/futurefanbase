@@ -5,16 +5,16 @@
           <h3>Overview</h3>
           <ul>
             <li>
-              <a href="features.html">Spotify fans </a>
+              <a href="/products/spotify-fans">Spotify fans </a>
             </li>
             <li>
-              <a href="services.html">Campaign Types</a>
+              <a href="/online-advertising/campaign-types">Campaign Types</a>
             </li>
             <li>
-              <a href="pricing.html">Advertising Platforms</a>
+              <a href="/online-advertising/advertising-platforms">Advertising Platforms</a>
             </li>
             <li>
-              <a href="support.html">Custom Solutions </a>
+              <a href="/custom-solutions">Custom Solutions </a>
             </li>
           </ul>
         </div>
@@ -22,16 +22,16 @@
           <h3>Menu</h3>
           <ul>
             <li>
-              <a href="features.html">About</a>
+              <a href="/about">About</a>
             </li>
             <li>
-              <a href="services.html">Products</a>
+              <a href="/products">Products</a>
             </li>
             <li>
-              <a href="aboutus.html">Online Advertising </a>
+              <a href="/online-advertising">Online Advertising </a>
             </li>
             <li>
-              <a href="support.html">Contact</a>
+              <a href="/contact">Contact</a>
             </li>
           </ul>
         </div>
