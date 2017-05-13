@@ -17,7 +17,7 @@
           <ul class="dropdown-menu">
             <li><a href="/products">Overview</a></li>
             <li><a href="/products/spotify-fans">Spotify Fans</a></li>
-            <li><a href="#">Custom Solutions</a></li>
+            <li><a href="/custom-solutions">Custom Solutions</a></li>
             {{-- <li><a href="#">Spotify Add Release</a></li>
             <li><a href="#">Unlocks</a></li>
             <li><a href="#">More In Development</a></li>
@@ -33,7 +33,7 @@
             <li><a href="/online-advertising/campaign-types">Campaign Types</a></li>
             <li><a href="/online-advertising/advertising-platforms">Advertising Platforms</a></li>
             <li><a href="/online-advertising/prices">Pricing </a></li>
-            <li><a href="#">Custom Solutions</a></li>
+            <li><a href="/custom-solutions">Custom Solutions</a></li>
           </ul>
         </li>
         <li><a href="/contact">Contact</a></li>
