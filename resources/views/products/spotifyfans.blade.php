@@ -49,7 +49,7 @@
             <div class="plan-name">Basic</div>
             <div class="quantity">
               <span class="dollar">€</span>
-              <span class="price">499</span>
+              <span class="price">999</span>
               <span class="period">/month</span>
             </div>
             <div class="specs">
@@ -97,7 +97,7 @@
             <div class="plan-name">Advanced</div>
             <div class="quantity">
               <span class="dollar">€</span>
-              <span class="price">799</span>
+              <span class="price">1299</span>
               <span class="period">/month</span>
             </div>            
             <div class="specs">
@@ -144,7 +144,7 @@
             <div class="plan-name">Premium</div>
             <div class="quantity">
               <span class="dollar">€</span>
-              <span class="price">1199</span>
+              <span class="price">1499</span>
               <span class="period">/month</span>
             </div>
             <div class="specs">
@@ -154,7 +154,7 @@
               </div>
               <div class="spec" style="font-size: 13px;">
                 <span class="variable">3</span>
-                playlist switch per month 
+                playlist switches per month 
               </div>
               <div class="spec" style="font-size: 13px;">
                 <span class="variable">Fan data</span>
@@ -201,34 +201,34 @@
           </div>
           <div class="row">
             <div class="col-md-4 feature">
-              <img src="/images/circle-icons/one-color/creditcard.png" alt="creditcard" />
+              <i style="font-size: 40px; color: #555;" class="fa fa-database" aria-hidden="true"></i>
               <strong>Generate your own data </strong>
               <p>Your data stays your own and will only be used to serve your own benefits.</p>
             </div>
             <div class="col-md-4 feature">
-              <img src="/images/circle-icons/one-color/dev.png" alt="dev" />
+              <i style="font-size: 40px; color: #555;" class="fa fa-area-chart" aria-hidden="true"></i>
               <strong>Clear fan insights &amp; results  </strong>
               <p>In the easy to read dashboard you will find clear fan insights and results. </p>
             </div>
             <div class="col-md-4 feature">
-              <img src="/images/circle-icons/one-color/globe.png" alt="globe" />
+              <i style="font-size: 40px; color: #555;" class="fa fa-users" aria-hidden="true"></i>
               <strong>Less steps: easier to follow </strong>
               <p>The future fan has to take less actions to become your follower on Spotify. </p>
             </div>
           </div>
           <div class="row">
             <div class="col-md-4 feature">
-              <img src="/images/circle-icons/one-color/support.png" alt="support" />
+              <i style="font-size: 40px; color: #555;" class="fa fa-desktop" aria-hidden="true"></i>
               <strong>Pixels: remarketing &amp; conversion </strong>
               <p>With this pixel we can retarget your fans and measure conversion of the campaign.</p>
             </div>
             <div class="col-md-4 feature">
-              <img src="/images/circle-icons/one-color/mail.png" alt="mail" />
+              <i style="font-size: 40px; color: #555;" class="fa fa-server" aria-hidden="true"></i>
               <strong>Separate server &amp; your branding</strong>
               <p>This product will run on your own server and with your branding only.</p>
             </div>
             <div class="col-md-4 feature">
-              <img src="/images/circle-icons/one-color/locked.png" alt="locked" />
+              <i style="font-size: 40px; color: #555;" class="fa fa-line-chart" aria-hidden="true"></i>
               <strong>Optimized online marketing</strong>
               <p>With the generated data we can continually optimize all of your online marketing activities.</p>
             </div>
