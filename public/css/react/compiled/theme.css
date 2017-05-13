@@ -8747,7 +8747,7 @@ a:focus, button:focus {
   .services-tabs .hexagons {
     text-align: center; }
     .services-tabs .hexagons .hexagon {
-      background: url("../../images/hexagon.png") 0 0 no-repeat;
+      background: url("/../images/hexagon.png") 0 0 no-repeat;
       width: 100px;
       height: 113px;
       position: relative;

@@ -32,7 +32,7 @@
             <li><a href="/online-advertising">Overview</a></li>
             <li><a href="/online-advertising/campaign-types">Campaign Types</a></li>
             <li><a href="/online-advertising/advertising-platforms">Advertising Platforms</a></li>
-            <li><a href="#">Pricing </a></li>
+            <li><a href="/online-advertising/prices">Pricing </a></li>
             <li><a href="#">Custom Solutions</a></li>
           </ul>
         </li>

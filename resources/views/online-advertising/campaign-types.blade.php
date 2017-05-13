@@ -4,7 +4,6 @@
 
 @section('content')
 
-
   <div class="features-tabs-section">
     <div class="container">
       <div class="row header">
@@ -221,5 +220,5 @@
       </div>
     </div>
   </div>
-</body>
-</html>
+
+@endsection

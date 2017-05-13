@@ -26,6 +26,11 @@ class PagesController extends Controller
     	return view('pages.products');
     }
 
+    public function customSolutions()
+    {
+        return view('pages.custom-solutions');
+    }
+
     public function spotifyFans()
     {
         return view('products.spotifyfans');
@@ -44,5 +49,10 @@ class PagesController extends Controller
     public function advertisingPlatforms()
     {
         return view('online-advertising.advertising-platforms');
+    }
+
+    public function prices()
+    {
+        return view('online-advertising.prices');
     }
 }
