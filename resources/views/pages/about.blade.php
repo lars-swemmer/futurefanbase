@@ -6,7 +6,7 @@
   <div class="blog-post-hero" style="background-image: url(images/about-hero.jpg)">
     <div class="container">
       <h1 class="animated fadeInUp">
-        About Future Fanbase
+        About Future Fanbase<br /><small style="color:#fff;">Founded by two music passionates</small>
       </h1>
     </div>
   </div>
