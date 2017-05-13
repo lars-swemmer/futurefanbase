@@ -92,8 +92,8 @@
     <div class="container">
       <div class="row header">
         <div class="col-md-12">
-          <h2>Reach out!</h2>
-          <p>Boost views, drive sales, increase awareness or generate traffic with the following campaign types.</p>
+          <h2 style="color: #55565d; font-size: 23px; font-weight: 500;">Reach your fans!</h2>
+          <p style="color: #888; font-size: 16px;">Boost views, drive sales, increase awareness or generate traffic with the following campaign types. </p>
         </div>
       </div>
       <div class="row feature">

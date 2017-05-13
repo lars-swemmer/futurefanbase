@@ -62,7 +62,7 @@
           
           <div class="info" style="margin-left: 0;">
             <strong>Platform Types</strong>
-            <p>Check out the different advertising platforms Future Fanbase uses to promote your message. </p>
+            <p>There’re several advertising platforms we use to promote your message.</p>
           </div>
         </div>
         <div class="col-md-4 feature">
