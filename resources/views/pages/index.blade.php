@@ -354,22 +354,6 @@
     </div>
   </div> --}}
 
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
   <div class="features-grid-section testimonials-section"> <!-- testimonials section is quick hack, dit een juiste class geven -->
     <div class="container">
       <div class="row header">
