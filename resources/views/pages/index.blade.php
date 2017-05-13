@@ -74,14 +74,14 @@
       </div>
       <div class="row features">
         <div class="col-md-6 feature">
-          <img src="images/circle-icons/full-color/globe.png" alt="globe">
+          <i style="float:left; font-size: 40px; color: #555;" class="fa fa-line-chart" aria-hidden="true"></i>
           <div class="info">
             <strong style="color: #3B88B6">Social &amp; Channel Growth</strong>
             <p>Grow your fanbase on your social, music or video channel. </p>
           </div>
         </div>
         <div class="col-md-6 feature">
-          <img src="images/circle-icons/full-color/location.png" alt="location">
+          <i style="float:left; font-size: 40px; color: #555;" class="fa fa-youtube" aria-hidden="true"></i>
           <div class="info">
             <strong style="color: #3B88B6">Youtube View Booster</strong>
             <p>Let your view counter reach the highest heights.</p>
@@ -90,14 +90,14 @@
       </div>
       <div class="row features">
         <div class="col-md-6 feature">
-          <img src="images/circle-icons/full-color/smartphone.png" alt="smartphone">
+          <i style="float:left; font-size: 40px; color: #555;" class="fa fa-users" aria-hidden="true"></i>
           <div class="info">
             <strong style="color: #3B88B6">Music, Events &amp; More</strong>
             <p>Promote and reach the targets you desire.</p>
           </div>
         </div>
         <div class="col-md-6 feature">
-          <img src="images/circle-icons/full-color/support.png" alt="support">
+          <i style="float:left; font-size: 40px; color: #555;" class="fa fa-trophy" aria-hidden="true"></i>
           <div class="info">
             <strong style="color: #3B88B6">Special: DJ MAG TOP 100 - 2017</strong>
             <p>Increase awareness, generate traffic and let your fans vote! </p>
@@ -125,7 +125,7 @@
           <div class="chart first" style="padding: 20px;">
             <div class="quantity">
               <span class="dollar">€</span>
-              <span class="price">499</span>
+              <span class="price">999</span>
               <span class="period">/month</span>
             </div>
             <div class="plan-name">Basic</div>
@@ -173,7 +173,7 @@
             <div class="popular">Most popular</div>
             <div class="quantity">
               <span class="dollar">€</span>
-              <span class="price">799</span>
+              <span class="price">1299</span>
               <span class="period">/month</span>
             </div>
             <div class="plan-name">Advanced</div>
@@ -220,7 +220,7 @@
           <div class="chart last" style="padding: 20px;">
             <div class="quantity">
               <span class="dollar">€</span>
-              <span class="price">1199</span>
+              <span class="price">1499</span>
               <span class="period">/month</span>
             </div>
             <div class="plan-name">Premium</div>
