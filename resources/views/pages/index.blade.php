@@ -58,13 +58,66 @@
     </div>
   </div>
 
+
+
+
+  <div class="services-showcase-section">
+    <div class="container">
+      <div class="row header">
+        <div class="col-md-12">
+          <h3 style="color: #3B88B6; font-weight: normal; font-size: 19px;">Campaign Types </h3>
+          <p>
+            Grow fans, increase views, drive sales or generate traffic with these four campaign types.
+          </p>
+          <a href="/online-advertising/campaign-types">Read more</a>
+        </div>
+      </div>
+      <div class="row features">
+        <div class="col-md-6 feature">
+          <img src="images/circle-icons/full-color/globe.png" alt="globe">
+          <div class="info">
+            <strong style="color: #3B88B6">Social &amp; Channel Growth</strong>
+            <p>Grow your fanbase on your social, music or video channel. </p>
+          </div>
+        </div>
+        <div class="col-md-6 feature">
+          <img src="images/circle-icons/full-color/location.png" alt="location">
+          <div class="info">
+            <strong style="color: #3B88B6">Youtube View Booster</strong>
+            <p>Let your view counter reach the highest heights.</p>
+          </div>
+        </div>
+      </div>
+      <div class="row features">
+        <div class="col-md-6 feature">
+          <img src="images/circle-icons/full-color/smartphone.png" alt="smartphone">
+          <div class="info">
+            <strong style="color: #3B88B6">Music, Events &amp; More</strong>
+            <p>Promote and reach the targets you desire.</p>
+          </div>
+        </div>
+        <div class="col-md-6 feature">
+          <img src="images/circle-icons/full-color/support.png" alt="support">
+          <div class="info">
+            <strong style="color: #3B88B6">Special: DJ MAG TOP 100 - 2017</strong>
+            <p>Increase awareness, generate traffic and let your fans vote! </p>
+          </div>
+        </div>
+      </div>     
+  </div>
+</div>
+
+
+
+
+
   <div class="pricing-dark-section">
     <div class="container">
       <div class="row header">
         <div class="col-md-12">
           <h3>Start gathering Spotify fans, data and insights</h3>
           <p>This unique product of Future Fanbase allows you to gather following on Spotify while collecting data of your fans. With our subscription service you can access this data in your own database and see real time results. </p>
-          <p>Get 1 month free when signing for a year.</p>
+          <p style="font-weight: bold; font-size: 14px; color: #ecf0f1">Get 1 month free when signing for a year.</p>
         </div>
       </div>
       <div class="row charts">
@@ -110,7 +163,7 @@
                 remarketing &amp; conversion
               </div>
             </div>
-            <a class="btn-signup button-clear" href="/online-advertising/advertising-platforms">
+            <a class="btn-signup button-clear" href="/products/spotify-fans">
               <span>See More</span>
             </a>
           </div>
@@ -158,7 +211,7 @@
                 remarketing &amp; conversion
               </div>
             </div>
-            <a class="btn-signup button-clear" href="/online-advertising/advertising-platforms">
+            <a class="btn-signup button-clear" href="/products/spotify-fans">
               <span>See More</span>
             </a>
           </div>
@@ -205,7 +258,7 @@
                 remarketing &amp; conversion
               </div>
             </div>
-            <a class="btn-signup button-clear" href="/online-advertising/advertising-platforms">
+            <a class="btn-signup button-clear" href="/products/spotify-fans">
               <span>See More</span>
             </a>
           </div>
@@ -304,12 +357,39 @@
 
 
 
+
+
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <title>Future Fanbase - Master Your Online Marketing Campaign</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- stylesheets -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" type="text/css" href="http://futurefanbase.dev/css/react/compiled/theme.css">
+  <link rel="stylesheet" type="text/css" href="http://futurefanbase.dev/css/react/vendor/animate.css">
+  <link rel="stylesheet" type="text/css" href="http://futurefanbase.dev/css/react/vendor/brankic.css">
+
+  <!-- javascript -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+  <script src="http://futurefanbase.dev/js/react/bootstrap/bootstrap.min.js"></script>
+  <script src="http://futurefanbase.dev/js/react/theme.js"></script>
+
+  
+
+
+
+
+
+</div>
+
+
   <div class="features-grid-section testimonials-section"> <!-- testimonials section is quick hack, dit een juiste class geven -->
     <div class="container">
       <div class="row header">
         <div class="col-md-12">
-            <h3>Advertising Platforms</h3>
-            <p>These are the main online advertising platforms Future Fanbases uses to promote your profile, channel, music, event, merchandise or any other marketing objective.</p>
+            <h3 style="font-size: 23px; color: #55565d; font-weight: 500; margin-bottom: 10px;">Advertising Platforms</h3>
+            <p style="font-size: 16px; font-weight: 400; color:#888; width: 75%; margin: 0 auto;">These are the main online advertising platforms Future Fanbases uses to promote your profile, channel, music, event, merchandise or any other marketing objective.</p>
         </div>
     </div>
     <div class="row">
@@ -428,7 +508,9 @@
     </div>
   </div> --}}
 
-  <div class="main-footer main-footer--white" style="border-top: 1px solid #E6E6E8">
+
+
+  <div class="main-footer main-footer" style="border-top: 1px solid #E6E6E8">
     <div class="container">
       <div class="row">
         <div class="col-sm-3 menu">
