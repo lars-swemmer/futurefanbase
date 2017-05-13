@@ -17,14 +17,14 @@
       </div>
       <div class="row features">
         <div class="col-md-6 feature">
-          <img src="images/circle-icons/full-color/globe.png" alt="globe" />
+          <i style="float:left; font-size: 40px; color: #555;" class="fa fa-line-chart" aria-hidden="true"></i>
           <div class="info">
             <strong>Social &amp; Channel Growth</strong>
             <p>Grow your fanbase on your social, music or video channel. </p>
           </div>
         </div>
         <div class="col-md-6 feature">
-          <img src="images/circle-icons/full-color/location.png" alt="location" />
+          <i style="float:left; font-size: 40px; color: #555;" class="fa fa-youtube" aria-hidden="true"></i>
           <div class="info">
             <strong>Youtube View Booster</strong>
             <p>Let your view counter reach the highest heights.</p>
@@ -33,14 +33,14 @@
       </div>
       <div class="row features">
         <div class="col-md-6 feature">
-          <img src="images/circle-icons/full-color/smartphone.png" alt="smartphone" />
+          <i style="float:left; font-size: 40px; color: #555;" class="fa fa-users" aria-hidden="true"></i>
           <div class="info">
             <strong>Music, Events &amp; More</strong>
             <p>Promote and reach the targets you desire.</p>
           </div>
         </div>
         <div class="col-md-6 feature">
-          <img src="images/circle-icons/full-color/support.png" alt="support" />
+          <i style="float:left; font-size: 40px; color: #555;" class="fa fa-trophy" aria-hidden="true"></i>
           <div class="info">
             <strong>Special: DJ MAG TOP 100 - 2017</strong>
             <p>Increase awareness, generate traffic and let your fans vote! </p>
