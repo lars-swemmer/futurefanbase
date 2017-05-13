@@ -74,16 +74,25 @@
 
 
 
+      <style type="text/css">
+        .fa-check {
+          font-size: 14px;
+          color: #27ae60;
+        }
+        .fa-times {
+          font-size: 14px;
+          color: #e74c3c;
+        }
+      </style>
 
 
 
 
 
-
-      <table class="table table-bordered">
+      <table class="table table-responsive" style="font-size: 12px; border: 1px solid #ddd;">
         <thead>
           <tr>
-            <th>Future Fanbase Fee per platform type</th>
+            <th>Summary Advertising platforms</th>
             <th>Spotify</th>
             <th>YouTube</th>
             <th>Google Adwords</th>
@@ -94,22 +103,13 @@
         </thead>
         <tbody>
           <tr>
-            <td>Responsibility fee: Campaign budget*</td>
-            <td>5%</td>
-            <td>5%</td>
-            <td>5%</td>
-            <td>5%</td>
-            <td>5%</td>
-            <td>5%</td>
-          </tr>
-          <tr>
-            <td>Minimum spend</td>
-            <td>High >4000</td>
-            <td>Low >1 p/d</td>
-            <td>Low >1 p/d</td>
-            <td>Low >5 p/d</td>
-            <td>Low >5 p/d</td>
-            <td>Low >1 p/d</td>
+            <td>Users</td>
+            <td>100M</td>
+            <td>1B+</td>
+            <td>1B+</td>
+            <td>1B+</td>
+            <td>700M</td>
+            <td>300M</td>
           </tr>
           <tr>
             <td>&nbsp;</td>
@@ -121,7 +121,7 @@
             <td>&nbsp;</td>
           </tr>
           <tr>
-            <td><strong>Implementation per platform</strong></td>
+            <td><strong>Formats Basic</strong></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -130,94 +130,31 @@
             <td>&nbsp;</td>
           </tr>
           <tr>
-            <td>Basic implementation fee*</td>
-            <td>€200</td>
-            <td>€150</td>
-            <td>€150</td>
-            <td>€100</td>
-            <td>€100</td>
-            <td>€100</td>
+            <td>Display</td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
           </tr>
           <tr>
-            <td>Per extra advanced targeting (narrow)</td>
-            <td>x</td>
-            <td>€30</td>
-            <td>€30</td>
-            <td>€20</td>
-            <td>€20</td>
-            <td>€25</td>
+            <td>Audio</td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-times" aria-hidden="true"></i></td>
+            <td><i class="fa fa-times" aria-hidden="true"></i></td>
+            <td><i class="fa fa-times" aria-hidden="true"></i></td>
+            <td><i class="fa fa-times" aria-hidden="true"></i></td>
+            <td><i class="fa fa-times" aria-hidden="true"></i></td>
           </tr>
           <tr>
-            <td>Per extra ad group (advanced targeting)</td>
-            <td>x</td>
-            <td>€35</td>
-            <td>€35</td>
-            <td>€25</td>
-            <td>€25</td>
-            <td>x</td>
-          </tr>
-          <tr>
-            <td>Per extra ad type</td>
-            <td>x</td>
-            <td>€35</td>
-            <td>€30</td>
-            <td>€25</td>
-            <td>€25</td>
-            <td>€20</td>
-          </tr>
-          <tr>
-            <td>Per extra month (reporting/optimizing)</td>
-            <td>x</td>
-            <td>€50</td>
-            <td>€50</td>
-            <td>€40</td>
-            <td>€40</td>
-            <td>€25</td>
-          </tr>
-          <tr>
-            <td>Implementation data*</td>
-            <td>x</td>
-            <td>€25</td>
-            <td>€25</td>
-            <td>€30</td>
-            <td>€30</td>
-            <td>€20</td>
-          </tr>
-          <tr>
-            <td>A/B Testing</td>
-            <td>x</td>
-            <td>on request</td>
-            <td>on request</td>
-            <td>on request</td>
-            <td>on request</td>
-            <td>on request</td>
-          </tr>
-          <tr>
-            <td>Conversion Measures</td>
-            <td>x</td>
-            <td>on request</td>
-            <td>on request</td>
-            <td>on request</td>
-            <td>on request</td>
-            <td>on request</td>
-          </tr>
-          <tr>
-            <td>In- exclusion specific audiences</td>
-            <td>x</td>
-            <td>on request</td>
-            <td>on request</td>
-            <td>on request</td>
-            <td>on request</td>
-            <td>on request</td>
-          </tr>
-          <tr>
-            <td>Set up: Remarketing lists/audiences</td>
-            <td>x</td>
-            <td>on request</td>
-            <td>on request</td>
-            <td>on request</td>
-            <td>on request</td>
-            <td>on request</td>
+            <td>Video</td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
           </tr>
           <tr>
             <td>&nbsp;</td>
@@ -229,31 +166,184 @@
             <td>&nbsp;</td>
           </tr>
           <tr>
-            <td><strong>More options</strong></td>
-            <td><a href="mailto:hello@futurefanbase.com">Contact us</a></td>
-            <td><a href="mailto:hello@futurefanbase.com">Contact us</a></td>
-            <td><a href="mailto:hello@futurefanbase.com">Contact us</a></td>
-            <td><a href="mailto:hello@futurefanbase.com">Contact us</a></td>
-            <td><a href="mailto:hello@futurefanbase.com">Contact us</a></td>
-            <td><a href="mailto:hello@futurefanbase.com">Contact us</a></td>
+            <td><strong>Formats Advanced</strong></td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
           </tr>
+          <tr>
+            <td>Examples</td>
+            <td>Take Over</td>
+            <td>In-stream ads</td>
+            <td>Interactive graphics</td>
+            <td>Caroussel</td>
+            <td>Slide show</td>
+            <td>Twitter card</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td><strong>Targeting Basic</strong></td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>Gender, age, country, language</td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td><strong>Targeting Advanced</strong></td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>Remarketing (general) </td>
+            <td>Cross Platform</td>
+            <td>Youtube</td>
+            <td>Youtube</td>
+            <td>Pixel</td>
+            <td>Pixel</td>
+            <td>Pixel</td>
+          </tr>
+          <tr>
+            <td>Use of data (custom/lookalike audiences)</td>
+            <td><i class="fa fa-times" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+          </tr>
+          <tr>
+            <td>Key words (search)</td>
+            <td><i class="fa fa-times" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-times" aria-hidden="true"></i></td>
+            <td><i class="fa fa-times" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+          </tr>
+          <tr>
+            <td>Listening behaviors</td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-times" aria-hidden="true"></i></td>
+            <td><i class="fa fa-times" aria-hidden="true"></i></td>
+            <td><i class="fa fa-times" aria-hidden="true"></i></td>
+            <td><i class="fa fa-times" aria-hidden="true"></i></td>
+            <td><i class="fa fa-times" aria-hidden="true"></i></td>
+          </tr>
+          <tr>
+            <td>Interests</td>
+            <td><i class="fa fa-times" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td><strong>Placements</strong></td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>Examples</td>
+            <td>Home Page Spotify</td>
+            <td>Channels/in-search</td>
+            <td>Across the internet</td>
+            <td>Wall/Network</td>
+            <td>Wall/Stories</td>
+            <td>Timeline/Network</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td><strong>Cost</strong></td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>Per Impression</td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+          </tr>
+          <tr>
+            <td>Per Action (click/view/engagement)</td>
+            <td><i class="fa fa-times" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+            <td><i class="fa fa-check" aria-hidden="true"></i></td>
+          </tr>
+
         </tbody>
       </table>
-
-
-
-
-
-
-
-
-
-
 
       <div class="row message">
         <p>
           Want to see the full list of formats and targeting options?
-          <a href="signup.html">Contact us now.</a>
+          <a href="mailto:hello@futurefanbase.com">Contact us now.</a>
         </p>
       </div>  
     </div>
@@ -270,7 +360,7 @@
           We have a very clear pricing policy. Our fees are based on a small percentage of the campaign budget (responsibility fee) and on platform type plus
 the number of ad groups and formats (implementation fee).
         </p>
-        <p><a href="">See our policy </a>.</p>
+        <p><a href="/online-advertising/prices">See our policy </a>.</p>
       </div>
       
     </div>
