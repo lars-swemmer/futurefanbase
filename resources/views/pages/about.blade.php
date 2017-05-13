@@ -45,15 +45,56 @@
           </div>
          </div>
         </div>
+
+
+
+
+
+        <div class="testimonials-section" style="margin-top: 40px;">
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-6">
+                <div class="testimonial pull-right">
+                  <div class="quote">
+                    Communication science (University of Amsterdam), worked at Spinnin’ Records, now co-founder and Managing Director of Future Fanbase, favorite music genres: dance pop, indie poptimism, indietronica and house.
+                    <div class="arrow-down">
+                      <div class="arrow"></div>
+                      <div class="arrow-border"></div>
+                    </div>
+                  </div>
+                  <div class="author">
+                    <img class="pic" src="https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-1/15109530_10207966692588470_6194946528084313786_n.jpg?oh=d5cd54f9400a523196a7dcc5984cd9cc&oe=597533FE">
+                    <div class="name"><a target="_blank" href="https://www.linkedin.com/in/bonecaverhagen/">Boneca Verhagen</a></div>
+                    <div class="company">Managing Director</div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-6">
+                <div class="testimonial">
+                  <div class="quote">
+                    Communication and Multimedia Design (Rotterdam University of Applied Sciences), worked at Spinnin’ Records, now co-founder of Future Fanbase and Head of Data at Martin Garrix, favorite music genres: techno and deep house.
+                    <div class="arrow-down">
+                      <div class="arrow"></div>
+                      <div class="arrow-border"></div>
+                    </div>
+                  </div>
+                  <div class="author">
+                    <img class="pic" src="https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/12743971_993697550676580_7739028443288921080_n.jpg?oh=097a094057f0d189a43a277e1f9f688e&oe=597BCD1F">
+                    <div class="name"><a target="_blank" href="https://www.linkedin.com/in/larsswemmer/">Lars Swemmer</a></div>
+                    <div class="company">Co-Founder</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
           <div class="row">
             <div class="content" style="font-size: 15px; line-height: 30px; color: #454545">
               <div class="col-md-5 col-md-offset-1"> 
-                <img class="img-responsive" src="https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-1/15109530_10207966692588470_6194946528084313786_n.jpg?oh=d5cd54f9400a523196a7dcc5984cd9cc&oe=597533FE">
-                <h3>Boneca Verhagen</h3>
-                <p>
-                  Communication science (University of Amsterdam), worked at Spinnin’ Records, now co-founder and Managing Director of Future Fanbase, favorite music genres: dance pop, indie poptimism, indietronica and house.
-                </p>
-                <br />
                 <h6 style="color: #3C92C5">Specialties</h6>
                 <ul>
                   <li>Online Advertising</li>
@@ -68,13 +109,7 @@
                   <li>YouTube Audience Growth</li>
                 </ul>
               </div>
-              <div class="col-md-5">
-                <img class="img-responsive" src="https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/12743971_993697550676580_7739028443288921080_n.jpg?oh=097a094057f0d189a43a277e1f9f688e&oe=597BCD1F">
-                <h3>Lars Swemmer</h3>
-                <p>
-                  Communication and Multimedia Design (Rotterdam University of Applied Sciences), worked at Spinnin’ Records, now co-founder of Future Fanbase and Head of Data at Martin Garrix, favorite music genres: techno and deep house.
-                </p>
-                <br />
+              <div class="col-md-5" style="margin-left: 36px;">
                 <h6 style="color: #3C92C5">Specialties</h6>
                 <ul>
                   <li>Data Engineering</li>
@@ -89,6 +124,9 @@
               </div>
             </div>
           </div>
+
+
+
       </div>
     </div>
   </div>
