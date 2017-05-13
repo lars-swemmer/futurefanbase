@@ -116,9 +116,7 @@
           We have a very clear pricing policy. Our fees are based on a small percentage of the campaign budget (responsibility fee) and on platform type plus
 the number of ad groups and formats (implementation fee).
         </p>
-        <p><a href="">See the summary</a>.</p>
-        <br />
-        <p style="font-size: 13px; color: #656565">Contact us for the full list of possibilities and their corresponding prices. </p>
+        <p><a href="">See our policy </a>.</p>
       </div>
       
     </div>
