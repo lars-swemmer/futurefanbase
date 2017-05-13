@@ -19,7 +19,7 @@
         <div class="col-md-12 feature">
           <img src="images/circle-icons/full-color/globe.png" alt="globe" />
           <div class="info">
-            <strong>Data & Website Solutions </strong>
+            <strong>Data &amp; Website Solutions </strong>
             <p>With our in-house data and website skills we can offer custom made solutions when it comes to development. For bigger projects we can team up with other developers within our network. If you you have some specific data, product or website wishes, let us know what it is you’re looking for. </p>
           </div>
         </div>
