@@ -99,7 +99,7 @@
                 <ul>
                   <li>Online Advertising</li>
                   <li>Marketing Strategy</li>
-                  <li>Channel Management</li>
+                  <li>Project Management</li>
                   <li>Analytics</li>
                 </ul>
                 <h6 style="color: #3C92C5">Certifications</h6>
