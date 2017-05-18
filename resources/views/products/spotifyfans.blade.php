@@ -9,7 +9,7 @@
       <div class="row header">
         <div class="col-md-8 col-md-offset-2">
           <h3><i style=" color: rgb(30, 215, 96);" class="fa fa-spotify" aria-hidden="true"></i> Spotify Fans</h3>
-          <p>This product of Future Fanbase allows you to gather following on Spotify while collecting data of your fans. You will get a dedicated branded page on a separately hosted server. With the Connect &amp; Follow button it’s easier for people to follow and they’re only one click away to become your next fan. XXx - This will generate data, which is always accessible in your own database. In the easy to read dashboard you will also find detailed insights and real time results. </p>
+          <p>This product of Future Fanbase allows you to gather following on Spotify while collecting data of your fans. You will get a dedicated branded page and can include your own call to action. With the Connect &amp; Follow button it’s easier for people to follow and they’re only one click away to become your next fan. The data of your fans is always accessible in your own database. In the easy to read dashboard you will also find detailed insights and real time results.</p>
         </div>
       </div>
     </div>
@@ -49,7 +49,7 @@
             <div class="plan-name">Basic</div>
             <div class="quantity">
               <span class="dollar">€</span>
-              <span class="price">999</span>
+              <span class="price">399</span>
               <span class="period">/month</span>
             </div>
             <div class="specs">
@@ -85,6 +85,10 @@
                 <span class="variable">Pixel</span>
                 remarketing &amp; conversion
               </div>
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">Server:</span>
+                Future Fanbase
+              </div>
             </div>
             <a class="btn-signup button-clear" href="MAILTO:hello@futurefanse.com">
               <span>Contact us</span>
@@ -97,7 +101,7 @@
             <div class="plan-name">Advanced</div>
             <div class="quantity">
               <span class="dollar">€</span>
-              <span class="price">1299</span>
+              <span class="price">599</span>
               <span class="period">/month</span>
             </div>            
             <div class="specs">
@@ -133,6 +137,10 @@
                 <span class="variable">Pixel</span>
                 remarketing &amp; conversion
               </div>
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">Server:</span>
+                Future Fanbase
+              </div>
             </div>
             <a class="btn-signup button-clear" href="MAILTO:hello@futurefanse.com">
               <span>Contact us</span>
@@ -144,7 +152,7 @@
             <div class="plan-name">Premium</div>
             <div class="quantity">
               <span class="dollar">€</span>
-              <span class="price">1499</span>
+              <span class="price">899</span>
               <span class="period">/month</span>
             </div>
             <div class="specs">
@@ -179,6 +187,10 @@
               <div class="spec" style="font-size: 13px;">
                 <span class="variable">Pixel</span>
                 remarketing &amp; conversion
+              </div>
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">Server:</span>
+                Your own server
               </div>
             </div>
             <a class="btn-signup button-clear" href="MAILTO:hello@futurefanse.com">
@@ -223,9 +235,9 @@
               <p>With this pixel we can retarget your fans and measure conversion of the campaign.</p>
             </div>
             <div class="col-md-4 feature">
-              <i style="font-size: 40px; color: #555;" class="fa fa-server" aria-hidden="true"></i>
-              <strong>Separate server &amp; your branding</strong>
-              <p>This product will run on your own server and with your branding only.</p>
+              <i style="font-size: 40px; color: #555;" class="fa fa-bullhorn" aria-hidden="true"></i>
+              <strong>Branding &amp; call to action</strong>
+              <p>Include your own call to action, like 'Follow to Win' or 'Follow to hear my new music'.</p>
             </div>
             <div class="col-md-4 feature">
               <i style="font-size: 40px; color: #555;" class="fa fa-line-chart" aria-hidden="true"></i>

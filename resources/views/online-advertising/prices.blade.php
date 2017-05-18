@@ -9,7 +9,7 @@
       <div class="row header">
         <div class="col-md-8 col-md-offset-2">
           <h3>Pricing</h3>
-          <p>We have a clear pricing policy. Our fees are based on a small percentage of the campaign budget (responsibility fee) and on the combination of platform types x targeting methods x the number of ad groups and formats (implementation fee).<br />See the summary.</p>
+          <p>We have a very clear pricing policy. Our fees are based on a small percentage of the campaign budget and on the type of implementation. We work on a ‘pay per campaign’ level. For long term agreements we can offer special discounts. <br /><br />See the summary.</p>
         </div>
       </div>
 
@@ -36,22 +36,31 @@
         </thead>
         <tbody>
           <tr>
-            <td>Responsibility fee: Campaign budget*</td>
-            <td>5%</td>
-            <td>5%</td>
-            <td>5%</td>
-            <td>5%</td>
-            <td>5%</td>
-            <td>5%</td>
-          </tr>
-          <tr>
             <td>Minimum spend</td>
-            <td>High >4000</td>
-            <td>Low >1 p/d</td>
-            <td>Low >1 p/d</td>
-            <td>Low >5 p/d</td>
-            <td>Low >5 p/d</td>
-            <td>Low >1 p/d</td>
+            <td>€3500.00</td>
+            <td>€1 p/d</td>
+            <td>€1 p/d</td>
+            <td>€5 p/d</td>
+            <td>€5 p/d</td>
+            <td>€1 p/d</td>
+          </tr>
+          <tr>
+            <td>Responsibility fee</td>
+            <td>5%</td>
+            <td>5%</td>
+            <td>5%</td>
+            <td>5%</td>
+            <td>5%</td>
+            <td>5%</td>
+          </tr>
+          <tr>
+            <td>Basic campaign</td>
+            <td>€175</td>
+            <td>€135</td>
+            <td>€125</td>
+            <td>€95</td>
+            <td>€95</td>
+            <td>€85</td>
           </tr>
           <tr>
             <td>&nbsp;</td>
@@ -63,7 +72,7 @@
             <td>&nbsp;</td>
           </tr>
           <tr>
-            <td><strong>Implementation per platform</strong></td>
+            <td><strong>Extra narrowing</strong></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -72,112 +81,121 @@
             <td>&nbsp;</td>
           </tr>
           <tr>
-            <td>Basic implementation fee*</td>
-            <td>€200</td>
-            <td>€150</td>
-            <td>€150</td>
-            <td>€100</td>
-            <td>€100</td>
-            <td>€100</td>
+            <td>- add per extra 5 placements</td>
+            <td>x</td>
+            <td>€8.50</td>
+            <td>€8.50</td>
+            <td>x</td>
+            <td>x</td>
+            <td>x</td>
           </tr>
           <tr>
-            <td>Per extra advanced targeting (narrow)</td>
-            <td><i class="fa fa-times" aria-hidden="true"></i></td>
-            <td>€30</td>
-            <td>€30</td>
-            <td>€20</td>
-            <td>€20</td>
+            <td>- add per extra 5 interests/groups</td>
+            <td>x</td>
+            <td>€7.50</td>
+            <td>€7.50</td>
+            <td>€7.50</td>
+            <td>€7.50</td>
+            <td>€7.50</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td><strong>Extra ad group Basic</strong></td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>Example: Country</td>
+            <td>x</td>
+            <td>on request</td>
+            <td>on request</td>
+            <td>€19.50</td>
+            <td>€19.50</td>
+            <td>x</td>
+          </tr>
+          <tr>
+            <td>- add per 5 countries</td>
+            <td>x</td>
+            <td>€7.50</td>
+            <td>€7.50</td>
+            <td>€7.50</td>
+            <td>€7.50</td>
+            <td>x</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td><strong>Extra ad group Advanced</strong></td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>Per extra ad group: interests</td>
+            <td>x</td>
+            <td>€22.50</td>
+            <td>€22.50</td>
+            <td>€19.50</td>
+            <td>€19.50</td>
+            <td>x</td>
+          </tr>
+          <tr>
+            <td>- add per 5 interests</td>
+            <td>x</td>
+            <td>€7.50</td>
+            <td>€7.50</td>
+            <td>€7.50</td>
+            <td>€7.50</td>
+            <td>x</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td><strong>Per extra month</strong></td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>Basic Campaign</td>
             <td>€25</td>
-          </tr>
-          <tr>
-            <td>Per extra ad group (advanced targeting)</td>
-            <td><i class="fa fa-times" aria-hidden="true"></i></td>
-            <td>€35</td>
-            <td>€35</td>
-            <td>€25</td>
-            <td>€25</td>
-            <td><i class="fa fa-times" aria-hidden="true"></i></td>
-          </tr>
-          <tr>
-            <td>Per extra ad type</td>
-            <td><i class="fa fa-times" aria-hidden="true"></i></td>
-            <td>€35</td>
-            <td>€30</td>
-            <td>€25</td>
-            <td>€25</td>
-            <td>€20</td>
-          </tr>
-          <tr>
-            <td>Per extra month (reporting/optimizing)</td>
-            <td><i class="fa fa-times" aria-hidden="true"></i></td>
             <td>€50</td>
             <td>€50</td>
-            <td>€40</td>
-            <td>€40</td>
-            <td>€25</td>
-          </tr>
-          <tr>
-            <td>Implementation data*</td>
-            <td><i class="fa fa-times" aria-hidden="true"></i></td>
-            <td>€25</td>
-            <td>€25</td>
-            <td>€30</td>
-            <td>€30</td>
-            <td>€20</td>
-          </tr>
-          <tr>
-            <td>A/B Testing</td>
-            <td><i class="fa fa-times" aria-hidden="true"></i></td>
-            <td>on request</td>
-            <td>on request</td>
-            <td>on request</td>
-            <td>on request</td>
-            <td>on request</td>
-          </tr>
-          <tr>
-            <td>Conversion Measures</td>
-            <td><i class="fa fa-times" aria-hidden="true"></i></td>
-            <td>on request</td>
-            <td>on request</td>
-            <td>on request</td>
-            <td>on request</td>
-            <td>on request</td>
-          </tr>
-          <tr>
-            <td>In- exclusion specific audiences</td>
-            <td><i class="fa fa-times" aria-hidden="true"></i></td>
-            <td>on request</td>
-            <td>on request</td>
-            <td>on request</td>
-            <td>on request</td>
-            <td>on request</td>
-          </tr>
-          <tr>
-            <td>Set up: Remarketing lists/audiences</td>
-            <td><i class="fa fa-times" aria-hidden="true"></i></td>
-            <td>on request</td>
-            <td>on request</td>
-            <td>on request</td>
-            <td>on request</td>
-            <td>on request</td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td><strong>More options</strong></td>
-            <td><a href="mailto:hello@futurefanbase.com">Contact us</a></td>
-            <td><a href="mailto:hello@futurefanbase.com">Contact us</a></td>
-            <td><a href="mailto:hello@futurefanbase.com">Contact us</a></td>
-            <td><a href="mailto:hello@futurefanbase.com">Contact us</a></td>
-            <td><a href="mailto:hello@futurefanbase.com">Contact us</a></td>
-            <td><a href="mailto:hello@futurefanbase.com">Contact us</a></td>
+            <td>€45</td>
+            <td>€45</td>
+            <td>€35</td>
           </tr>
         </tbody>
       </table>
@@ -215,62 +233,68 @@
         <div class="col-md-12">
           <div class="sections">
             <div class="section active">
-              <h4>Marketing objective: A social growth campaign on Facebook</h4>
+              <h4>More options, extra’s and discount offers</h4>
+              <p>Are on request, here are some examples: </p>
               	<ul>
-              		<li>Platform: Facebook </li>
-              		<li> Implementation: Basic</li>
-              		<li> Budget: 1000</li>
-              		<li></li>
-              		<li>Responsibility fee of 5%: 50</li>
-              		<li>Basic implementation: 100</li>
-              		<li></li>
-              		<li>Campaign budget: 1000</li>
-              		<li>Future Fanbase fee: 150</li>
+              		<li>More targeting options/ad groups</li>
+              		<li> Data implementation </li>
+              		<li> Set up of remarketing lists </li>
+              		<li>A/B testing </li>
+              		<li>Conversion Measures</li>
+              		<li>Audience creation (custom/lookalike)</li>
+              		<li>Long term discounts </li>
               	</ul>
             </div>
             <div class="section">
-              <h4>Frontend development</h4>
+              <h4>Basic Campaign Implementation</h4>
+              <p>A basic campaign includes:</p>
+              <ul>
+                <li>1 campaign type/format</li>
+                <li>1 set of basic targeting tools (age; countries; gender; languages*)</li>
+                <li>1 advanced targeting option (narrow by: interests, remarketing and others*) </li>
+                <li>1 basic ad type (can include multiple advertisements*)</li>
+                <li>1 report</li>
+                <li>Running for 1-30 days</li>
+              </ul>
+              <p>You pay additional prices when you need more specific tools than what’s included in the basic campaign. </p>
+              <p>*Contact us to see detailed specifics.</p>
+            </div>
+            <div class="section">
+              <h4>Reporting</h4>
               <p>
-                I love making the stuff, that’s sort of the core of it. I love creating the stuff. It’s so satisfying to get from the beginning to the end, from a shaky nothing idea to something that’s well formed and the audience really likes. It’s like a drug: You keep trying to do it again and again and again. I’ve learned from experience that if you work harder at it, and apply more energy and time to it, and more consistency, you get a better result. It comes from the work.
+                When you run a campaign through Future Fanbase you will receive a monthly report. This will give you detailed insights on your budget, performance and achieved objectives. If you’re too eager and can’t wait to see the results, you can always ask us for updates in the mean time. 
+              </p>
+            </div>
+            <div class="section">
+              <h4>Fee Calculation</h4>
+              <p>
+               Together we decide on the right strategy to reach your objectives. After determining the campaign type, platforms and formats, we can calculate our fee.
+              </p>
+              <p>
+                For example:<br />
+                Objective: Facebook Growth <br />
+                Advertising Platform: Facebook <br />
+                Budget: €4000; Basic Campaign; 6 months <br />
                 <br />
-                This thing will work on any device, it has a very easy to understand documentation and is made with SASS.
+                 Responsibility percentage: €200 <br />
+                Basic campaign Facebook: €95 <br />
+                Extra five months: €225 <br />
+                Total fee: €520<br />
               </p>
             </div>
             <div class="section">
-              <h4>Responsive web design</h4>
+              <h4>Future Fanbase Subscriptions</h4>
               <p>
-                We're always happy to offer support if you happen to have any doubts about anything, if you need some new stuff contact us.
+               Clients of Future Fanbase receive a discount on the campaign fee. Depending on the marketing objective and the subscription service you have, your discount can go up to 10%.  
               </p>
               <p>
-                You have to roll up your sleeves and be a stonecutter before you can become a sculptor – command of craft always precedes art: apprentice, journeyman, master. <br />
-                It doesn’t matter one damn bit whether fashion is art or not. You don’t question whether an incredible chef is an artist or not – his cakes are delicious and that’s all that matters.
-              </p>
-            </div>
-            <div class="section">
-              <h4>HTML & CSS Development</h4>
-              <p>
-                Well you’re in your little room and you’re working on something good but if it’s really good you’re gonna need a bigger room and when you’re in the bigger room you might not know what to do you might have to think of how you got started sitting in your little room.
-              </p>
-              <p>
-                We're always happy to offer support if you happen to have any doubts about anything, if you need some new stuff contact us.
+                Also, there are no additional costs for our subscribers when it comes to data implementation and conversion measures. 
               </p>
             </div>
             <div class="section">
-              <h4>Photoshop Mockups</h4>
+              <h4>Custom Offers </h4>
               <p>
-                I want everything we do to be beautiful. I don’t give a damn whether the client understands that that’s worth anything, or that the client thinks it’s worth anything, or whether it is worth anything. It’s worth it to me. It’s the way I want to live my life. I want to make beautiful things, even if nobody cares.
-              </p>
-              <p>
-                We'll be adding some new stuff to make it even more awesome, if you have any idea please let us know.
-              </p>
-            </div>
-            <div class="section">
-              <h4>Retina display</h4>
-              <p>
-                Functionality is so over-valued in design, and we’ve kept design very small in that way. Functionality is the sheer minimum. If your house burns down, what do you take? The cat in the window that you got from your mother, or the chair you have?
-              </p>
-              <p>
-                Simply are looking to sell digital goods or are interested in drop shipping — React has a complete solution in this.
+                Do your marketing objectives require special needs? We can offer you custom made solutions. Custom made solutions require custom pricing. Let us know what it is what you are looking for so we can send you a suitable offer.  
               </p>
             </div>
           </div>

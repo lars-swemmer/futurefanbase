@@ -63,7 +63,7 @@
       <div class="row header col-md-offset-2 col-md-8">
         <h3>Formats &amp; Targeting</h3>
         <p>
-          Every platform has it’s own audience, unique format options and targeting tools. Using multiple platforms to market your message can strengthen your campaign. See  the summary of options below.
+          Every platform has it’s own audience, unique format options and targeting tools. Using multiple platforms to market your message can strengthen your campaign.<br /><br />See  the summary of options below.
         </p>
       </div>
     </div>
@@ -293,7 +293,7 @@
           </tr>
           <tr>
             <td>Examples</td>
-            <td>Home Page Spotify</td>
+            <td>Spotify Browse </td>
             <td>Channels/in-search</td>
             <td>Across the internet</td>
             <td>Wall/Network</td>
@@ -357,8 +357,7 @@
       <div class="row header col-md-offset-2 col-md-8">
         <h3>Pricing</h3>
         <p>
-          We have a very clear pricing policy. Our fees are based on a small percentage of the campaign budget (responsibility fee) and on platform type plus
-the number of ad groups and formats (implementation fee).
+          We have a very clear pricing policy. Our fees are based on a small percentage of the campaign budget and on the type of implementation.
         </p>
         <p><a href="/online-advertising/prices">See our policy </a>.</p>
       </div>

@@ -92,7 +92,7 @@
     <div class="container">
       <div class="row header">
         <div class="col-md-12">
-          <h2 style="color: #55565d; font-size: 23px; font-weight: 500;">Reach your fans!</h2>
+          <h2 style="color: #55565d; font-size: 23px; font-weight: 500;">Spread the message!</h2>
           <p style="color: #888; font-size: 16px;">Boost views, drive sales, increase awareness or generate traffic with the following campaign types. </p>
         </div>
       </div>
@@ -111,7 +111,7 @@
         <div class="col-md-6 info">
           <h4>Music, Events &amp; More </h4>
           <p>
-           Promote your music, event or new merchandise. We can advise on using the right type of content, advertising tools, targeting and the required budget to reach your desired goal.
+           Promote your music, event, merchandise or any other special activity. We can advise on using the right type of content, advertising tools, targeting and the required budget to reach your desired goal.
           </p>
         </div>
         <div class="col-md-6 image">
