@@ -67,7 +67,7 @@
         <div class="col-md-12">
           <h3 style="color: #3B88B6; font-weight: normal; font-size: 19px;">Campaign Types </h3>
           <p>
-            Grow fans, increase views, drive sales or generate traffic with these four campaign types.
+            Here are some examples of different campaign types you can run through Future Fanbase.
           </p>
           <a href="/online-advertising/campaign-types">Read more</a>
         </div>
@@ -125,7 +125,7 @@
           <div class="chart first" style="padding: 20px;">
             <div class="quantity">
               <span class="dollar">€</span>
-              <span class="price">999</span>
+              <span class="price">399</span>
               <span class="period">/month</span>
             </div>
             <div class="plan-name">Basic</div>
@@ -173,7 +173,7 @@
             <div class="popular">Most popular</div>
             <div class="quantity">
               <span class="dollar">€</span>
-              <span class="price">1299</span>
+              <span class="price">599</span>
               <span class="period">/month</span>
             </div>
             <div class="plan-name">Advanced</div>
@@ -220,7 +220,7 @@
           <div class="chart last" style="padding: 20px;">
             <div class="quantity">
               <span class="dollar">€</span>
-              <span class="price">1499</span>
+              <span class="price">899</span>
               <span class="period">/month</span>
             </div>
             <div class="plan-name">Premium</div>
