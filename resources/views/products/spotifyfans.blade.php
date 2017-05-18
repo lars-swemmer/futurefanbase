@@ -86,7 +86,7 @@
                 remarketing &amp; conversion
               </div>
               <div class="spec" style="font-size: 13px;">
-                <span class="variable">Server:</span>
+                <span class="variable">Server</span>
                 Future Fanbase
               </div>
             </div>
@@ -138,7 +138,7 @@
                 remarketing &amp; conversion
               </div>
               <div class="spec" style="font-size: 13px;">
-                <span class="variable">Server:</span>
+                <span class="variable">Server</span>
                 Future Fanbase
               </div>
             </div>
@@ -189,7 +189,7 @@
                 remarketing &amp; conversion
               </div>
               <div class="spec" style="font-size: 13px;">
-                <span class="variable">Server:</span>
+                <span class="variable">Server</span>
                 Your own server
               </div>
             </div>

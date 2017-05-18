@@ -162,6 +162,10 @@
                 <span class="variable">Pixel</span>
                 remarketing &amp; conversion
               </div>
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">Server</span>
+                Future Fanbase
+              </div>
             </div>
             <a class="btn-signup button-clear" href="/products/spotify-fans">
               <span>See More</span>
@@ -210,6 +214,10 @@
                 <span class="variable">Pixel</span>
                 remarketing &amp; conversion
               </div>
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">Server</span>
+                Future Fanbase
+              </div>
             </div>
             <a class="btn-signup button-clear" href="/products/spotify-fans">
               <span>See More</span>
@@ -256,6 +264,10 @@
               <div class="spec" style="font-size: 13px;">
                 <span class="variable">Pixel</span>
                 remarketing &amp; conversion
+              </div>
+              <div class="spec" style="font-size: 13px;">
+                <span class="variable">Server</span>
+                Your own server
               </div>
             </div>
             <a class="btn-signup button-clear" href="/products/spotify-fans">
