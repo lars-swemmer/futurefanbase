@@ -30,12 +30,12 @@
                 </p>
               </div>
               <div class="col-md-6 image">
-                <img src="/images/tabs/pic1.png" class="img-responsive" alt="picture1" />
+                <img src="/images/ct-facebook.jpg" class="img-responsive img-rounded" alt="picture1" />
               </div>
             </div>
             <div class="tab-pane fade" id="instagram">
               <div class="col-md-6 image">
-                <img src="/images/portfolioitem1.png" class="img-responsive" alt="picture2" />
+                <img src="/images/ct-instagram.jpg" class="img-responsive img-rounded" alt="picture1" />
               </div>
               <div class="col-md-6 info">
                 <h4>Instagram</h4>
@@ -55,12 +55,12 @@
                 </p>
               </div>
               <div class="col-md-6 image">
-                <img src="/images/tabs/pic2.png" class="img-responsive" style="position: relative;top: 15px;" alt="picture3" />
+                <img src="/images/ct-twitter.jpg" class="img-responsive img-rounded" alt="picture1" />
               </div>
             </div>
             <div class="tab-pane fade" id="youtube">
               <div class="col-md-6 image">
-                <img src="/images/tabs/pic1.png" class="img-responsive" alt="picture4" />
+                <img src="/images/ct-youtube.jpg" class="img-responsive img-rounded" alt="picture1" />
               </div>
               <div class="col-md-6 info">
                 <h4>YouTube</h4>
@@ -79,7 +79,7 @@
                 </p>
               </div>
               <div class="col-md-6 image">
-                <img src="/images/tabs/pic2.png" class="img-responsive" style="position: relative;top: 15px;" alt="picture3" />
+                <img src="/images/ct-spotify.jpg" class="img-responsive img-rounded" alt="picture1" />
               </div>
             </div>
           </div>
@@ -126,7 +126,7 @@
           </p>
         </div>
         <div class="col-md-6 image">
-          <img src="/images/feature3.png" class="img-responsive" alt="feature3" />
+          <img src="/images/ct-djmag.png" class="img-responsive" alt="feature3" />
         </div>
       </div>
     </div>
