@@ -82,16 +82,16 @@
           </tr>
           <tr>
             <td>- add per extra 5 placements</td>
-            <td>x</td>
+            <td><i class="fa fa-times" aria-hidden="true"></i></td>
             <td>€8.50</td>
             <td>€8.50</td>
-            <td>x</td>
-            <td>x</td>
-            <td>x</td>
+            <td><i class="fa fa-times" aria-hidden="true"></i></td>
+            <td><i class="fa fa-times" aria-hidden="true"></i></td>
+            <td><i class="fa fa-times" aria-hidden="true"></i></td>
           </tr>
           <tr>
             <td>- add per extra 5 interests/groups</td>
-            <td>x</td>
+            <td><i class="fa fa-times" aria-hidden="true"></i></td>
             <td>€7.50</td>
             <td>€7.50</td>
             <td>€7.50</td>
@@ -118,21 +118,21 @@
           </tr>
           <tr>
             <td>Example: Country</td>
-            <td>x</td>
+            <td><i class="fa fa-times" aria-hidden="true"></i></td>
             <td>on request</td>
             <td>on request</td>
             <td>€19.50</td>
             <td>€19.50</td>
-            <td>x</td>
+            <td><i class="fa fa-times" aria-hidden="true"></i></td>
           </tr>
           <tr>
             <td>- add per 5 countries</td>
-            <td>x</td>
+            <td><i class="fa fa-times" aria-hidden="true"></i></td>
             <td>€7.50</td>
             <td>€7.50</td>
             <td>€7.50</td>
             <td>€7.50</td>
-            <td>x</td>
+            <td><i class="fa fa-times" aria-hidden="true"></i></td>
           </tr>
           <tr>
             <td>&nbsp;</td>
@@ -154,21 +154,21 @@
           </tr>
           <tr>
             <td>Per extra ad group: interests</td>
-            <td>x</td>
+            <td><i class="fa fa-times" aria-hidden="true"></i></td>
             <td>€22.50</td>
             <td>€22.50</td>
             <td>€19.50</td>
             <td>€19.50</td>
-            <td>x</td>
+            <td><i class="fa fa-times" aria-hidden="true"></i></td>
           </tr>
           <tr>
             <td>- add per 5 interests</td>
-            <td>x</td>
+            <td><i class="fa fa-times" aria-hidden="true"></i></td>
             <td>€7.50</td>
             <td>€7.50</td>
             <td>€7.50</td>
             <td>€7.50</td>
-            <td>x</td>
+            <td><i class="fa fa-times" aria-hidden="true"></i></td>
           </tr>
           <tr>
             <td>&nbsp;</td>
@@ -210,19 +210,19 @@
       <div class="row">
         <div class="col-md-12 hexagons">
           <div class="hexagon active">
-            <span class="icon brankic-monitor"></span>
+            <span class="icon"><i class="fa fa-shopping-basket" aria-hidden="true"></i></span>
           </div>
           <div class="hexagon">
-            <span class="icon brankic-phone"></span>
+            <span class="icon"><i class="fa fa-archive" aria-hidden="true"></i></span>
           </div>
           <div class="hexagon">
-            <span class="icon brankic-lamp3"></span>
+            <span class="icon"><i class="fa fa-file-text-o" aria-hidden="true"></i></span>
           </div>
           <div class="hexagon">
-            <span class="icon brankic-pictures3"></span>
+            <span class="icon"><i class="fa fa-calculator" aria-hidden="true"></i></span>
           </div>
           <div class="hexagon">
-            <span class="icon brankic-upload2"></span>
+            <span class="icon"><i class="fa fa-credit-card-alt" aria-hidden="true"></i></span>
           </div>
           <div class="hexagon">
             <span class="icon brankic-tools"></span>
