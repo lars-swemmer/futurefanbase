@@ -20,7 +20,7 @@
               <img src="images/portfolio1.png" class="img-responsive" alt="portfolio1" />
             </div>
             <p class="description">
-              This product of Future Fanbase allows you to gather following on Spotify while collecting data of your fans. You will get a dedicated branded page on a separately hosted server. With the Connect &amp; Follow button it’s easier for people to follow and they’re only one click away to become your next fan. 
+              This product of Future Fanbase allows you to gather following on Spotify while collecting data of your fans. You will get a dedicated branded page and can include your own call to action. With the Connect & Follow button it’s easier for people to follow and they’re only one click away to become your next fan.
             </p>
             <div class="divider"></div>
             <div class="visit">
