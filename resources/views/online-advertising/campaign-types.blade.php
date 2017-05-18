@@ -104,7 +104,7 @@
           </p>
         </div>
         <div class="col-md-6 image">
-          <img src="/images/feature1.png" class="img-responsive" alt="feature1" />
+          <img src="/images/feature2youtube.png" class="img-responsive" alt="feature1" />
         </div>
       </div>
       <div class="row feature backwards">
@@ -115,7 +115,7 @@
           </p>
         </div>
         <div class="col-md-6 image">
-          <img src="/images/feature2.png" class="img-responsive" alt="feature2" />
+          <img src="/images/feature1.png" class="img-responsive" alt="feature2" />
         </div>
       </div>
       <div class="row feature last">
