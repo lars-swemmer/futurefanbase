@@ -50,7 +50,7 @@
               <div class="col-md-6 info">
                 <h4>Twitter</h4>
                 <p>
-                  TTwitter is a platform for up to date observations and viral trends. With its 300 million active users the conversation is still ongoing.</p>
+                  Twitter is a platform for up to date observations and viral trends. With its 300 million active users the conversation is still ongoing.</p>
                   <p>Whether it’s to increase following or promote tweets, Future Fanbase will optimize your campaign to make sure to reach the most conversational and interactive fans.
                 </p>
               </div>
