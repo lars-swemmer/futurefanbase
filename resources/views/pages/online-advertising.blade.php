@@ -85,7 +85,7 @@
     <div class="container">
       <div class="row" style="overflow:hidden;">
         <div class="col-md-6 image">
-          <img src="images/services1.png" class="img-responsive animated fadeInUp" alt="services1">
+          <img src="images/services1.png" class="img-responsive img-rounded animated fadeInUp" alt="services1">
         </div>
         <div class="col-md-6 info">
           <h3>Custom Solutions</h3>
