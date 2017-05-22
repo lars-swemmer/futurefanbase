@@ -44,7 +44,7 @@
           </ul> --}}
         </div>
         <div class="col-sm-4 newsletter">
-          <div class="signup clearfix">
+          {{-- <div class="signup clearfix">
             <p>
               Sign up for the newsletter and we'll inform you of updates, offers and more.
             </p>
@@ -52,7 +52,7 @@
               <input type="text" name="email" class="form-control" placeholder="Your email address" />
               <input type="submit" value="Sign up" />
             </form>
-          </div>
+          </div> --}}
         </div>
       </div>
       <div class="row credits">

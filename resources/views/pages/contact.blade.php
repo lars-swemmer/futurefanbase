@@ -20,7 +20,7 @@
           <p>
             We  would love to hear from you!<br />  
           </p>
-          <form role="form" id="contact-form" method="post">
+          {{-- <form role="form" id="contact-form" method="post">
             <div class="form-group">
               <label for="name">Your name</label>
               <input type="text" name="name" class="form-control" id="name" />
@@ -40,7 +40,7 @@
             <div class="submit">
               <input type="submit" class="button button-small" value="Send" />
             </div>
-          </form>
+          </form> --}}
         </div>
         <div class="col-md-4 contact">
           <div class="address">

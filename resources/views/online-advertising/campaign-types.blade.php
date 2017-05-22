@@ -115,7 +115,7 @@
           </p>
         </div>
         <div class="col-md-6 image">
-          <img src="/images/feature1.png" class="img-responsive" alt="feature2" />
+          <img src="/images/react/feature22.png" class="img-responsive" alt="feature2" />
         </div>
       </div>
       <div class="row feature last">
