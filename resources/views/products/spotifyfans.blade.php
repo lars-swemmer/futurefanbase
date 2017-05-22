@@ -28,6 +28,12 @@
             <div class="slide">
               <img src="/images/slider/slide4.png" alt="slide" />
             </div>
+            <div class="slide">
+              <img src="/images/slider/slide5.png" alt="slide" />
+            </div>
+            <div class="slide">
+              <img src="/images/slider/slide6.png" alt="slide" />
+            </div>
           </div>
         </div>  
       </div>
