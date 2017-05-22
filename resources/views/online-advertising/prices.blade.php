@@ -9,7 +9,7 @@
       <div class="row header">
         <div class="col-md-8 col-md-offset-2">
           <h3>Pricing</h3>
-          <p>We have a very clear pricing policy. Our fees are based on a small percentage of the campaign budget and on the type of implementation. We work on a ‘pay per campaign’ level. For long term agreements we can offer special discounts. <br /><br />See the summary.</p>
+          <p>Future Fanbase has a clear pricing policy. Our prices are based on a responsibility and implementation fee. We work on a ‘pay per campaign’ level. For long term agreements we can offer special discounts. <br /><br />See the summary.</p>
         </div>
       </div>
 
@@ -25,7 +25,7 @@
       		<table class="table table-responsive" style="font-size: 12px; border: 1px solid #ddd;">
         <thead>
           <tr>
-            <th>Future Fanbase Fee per platform type</th>
+            <th>Summary Future Fanbase Fee</th>
             <th>Spotify</th>
             <th>YouTube</th>
             <th>Google Adwords</th>
@@ -37,7 +37,7 @@
         <tbody>
           <tr>
             <td>Minimum spend</td>
-            <td>€3500.00</td>
+            <td>€3500</td>
             <td>€1 p/d</td>
             <td>€1 p/d</td>
             <td>€5 p/d</td>
@@ -46,21 +46,21 @@
           </tr>
           <tr>
             <td>Responsibility fee</td>
-            <td>5%</td>
-            <td>5%</td>
-            <td>5%</td>
-            <td>5%</td>
-            <td>5%</td>
-            <td>5%</td>
+            <td><strong>5%</strong></td>
+            <td><strong>5%</strong></td>
+            <td><strong>5%</strong></td>
+            <td><strong>5%</strong></td>
+            <td><strong>5%</strong></td>
+            <td><strong>5%</strong></td>
           </tr>
           <tr>
             <td>Basic campaign</td>
-            <td>€175</td>
-            <td>€135</td>
-            <td>€125</td>
-            <td>€95</td>
-            <td>€95</td>
-            <td>€85</td>
+            <td><strong>€175</strong></td>
+            <td><strong>€135</strong></td>
+            <td><strong>€125</strong></td>
+            <td><strong>€95</strong></td>
+            <td><strong>€95</strong></td>
+            <td><strong>€85</strong></td>
           </tr>
           <tr>
             <td>&nbsp;</td>
@@ -117,7 +117,7 @@
             <td>&nbsp;</td>
           </tr>
           <tr>
-            <td>Example: Country</td>
+            <td>Per extra ad group: Country</td>
             <td><i class="fa fa-times" aria-hidden="true"></i></td>
             <td>on request</td>
             <td>on request</td>
@@ -294,7 +294,7 @@
             <div class="section">
               <h4>Custom Offers </h4>
               <p>
-                Do your marketing objectives require special needs? We can offer you custom made solutions. Custom made solutions require custom pricing. Let us know what it is what you are looking for so we can send you a suitable offer.  
+                Does your marketing objective require special needs? We offer custom made solutions. Custom made solutions require custom pricing. Let’s talk about what it is you are looking for so we can send you a suitable offer. 
               </p>
             </div>
           </div>

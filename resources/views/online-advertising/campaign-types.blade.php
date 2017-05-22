@@ -25,7 +25,7 @@
               <div class="col-md-6 info">
                 <h4>Facebook</h4>
                 <p>
-                  Facebook is a great way to connect with your fans. With over a billon active users it has become the world’s largest social medium and a essential marketing platform.</p>
+                  Facebook is a great way to connect with your fans. With over a billion active users it has become the world’s largest social medium and an essential marketing platform.</p>
                   <p>Future Fanbase is able to grow your following, increase reach and raise awareness on this medium. By using the right type of advertisements and targeting tools we will find you the most engaging fans at the best rate. 
                 </p>
               </div>
@@ -40,7 +40,7 @@
               <div class="col-md-6 info">
                 <h4>Instagram</h4>
                 <p>
-                  Instagram has the most engaging audience of all social media and with it’s 700 million users, this platform can’t be missed in your social strategy.</p>
+                  Instagram has the most engaging audience of all social media and with its 700 million users, this platform can’t be missed in your social strategy.</p>
                   <p>
                   On Instagram visual content is key. By implementing the right campaign with specific targeting, Future Fanbase can help you generate higher reach, attract more fans and keep them involved.
                 </p>
@@ -50,7 +50,7 @@
               <div class="col-md-6 info">
                 <h4>Twitter</h4>
                 <p>
-                  Twitter is a platform for up to date observations and viral trends. With it’s 300 million active users the conversation is still ongoing.</p>
+                  TTwitter is a platform for up to date observations and viral trends. With its 300 million active users the conversation is still ongoing.</p>
                   <p>Whether it’s to increase following or promote tweets, Future Fanbase will optimize your campaign to make sure to reach the most conversational and interactive fans.
                 </p>
               </div>
@@ -98,9 +98,9 @@
       </div>
       <div class="row feature">
         <div class="col-md-6 info">
-          <h4>Youtube Views</h4>
+          <h4>YouTube Views</h4>
           <p>
-           More views on your video means more reach, more potential fans, and thereby it’s a great marketing and PR tool. By using the Future Fanbase View Booster you can generate more views on your video, while reaching out to lots of potential new fans.  
+           More views on your video means more reach, more potential fans and thereby it’s a great marketing and PR tool. By using the Future Fanbase View Booster you can generate more views on your video and make your view counter explode! 
           </p>
         </div>
         <div class="col-md-6 image">
@@ -111,7 +111,7 @@
         <div class="col-md-6 info">
           <h4>Music, Events &amp; More </h4>
           <p>
-           Promote your music, event, merchandise or any other special activity. We can advise on using the right type of content, advertising tools, targeting and the required budget to reach your desired goal.
+           Promote your music, event, merchandise or any other special marketing activity. With the right type of content, advertising tools and targeting solutions we will implement the perfect campaign to reach your desired goal.
           </p>
         </div>
         <div class="col-md-6 image">
@@ -122,7 +122,7 @@
         <div class="col-md-6 info">
           <h4>Special: DJ MAG TOP 100 - 2017 </h4>
           <p>
-           Increase awareness, drive traffic and let your fans vote! With the right tools we can create a top of mind campaign so fans won’t forget about you when they’re voting for their top dj’s.
+           Increase awareness, drive traffic and let your fans vote! With the best set of advertising tools we will create a top of mind campaign so fans won’t forget about you when they’re voting for their top dj’s.
           </p>
         </div>
         <div class="col-md-6 image">

@@ -9,7 +9,7 @@
       <div class="row header">
         <div class="col-md-8 col-md-offset-2">
           <h3><i style=" color: rgb(30, 215, 96);" class="fa fa-spotify" aria-hidden="true"></i> Spotify Fans</h3>
-          <p>This product of Future Fanbase allows you to gather following on Spotify while collecting data of your fans. You will get a dedicated branded page and can include your own call to action. With the Connect &amp; Follow button it’s easier for people to follow and they’re only one click away to become your next fan. The data of your fans is always accessible in your own database. In the easy to read dashboard you will also find detailed insights and real time results.</p>
+          <p>This product of Future Fanbase allows you to gather following on Spotify while collecting data of your fans. You will get a dedicated branded page including your own call to action. With the Connect &amp; Follow button it’s easier for people to follow and they’re only one click away to become your next fan. The data of your fans is always accessible in your own database where you will also find detailed insights and real time results.</p>
         </div>
       </div>
     </div>

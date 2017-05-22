@@ -9,7 +9,7 @@
           <div class="row header">
             <div class="col-md-8 col-md-offset-2">
               <h3>Platform Types</h3>
-              <p> These are the main platforms Future Fanbases uses to promote your profile, channel, music, event, merchandise or any other marketing objective.</p>
+              <p>These are the main platforms Future Fanbase uses to promote your profile, channel, music, event, merchandise or any other marketing objective.</p>
             </div>
           </div>
         </div>
@@ -22,12 +22,12 @@
 	        <div class="col-md-4 feature">
 	          <i style="font-size: 40px; color: rgb(30, 215, 96);" class="fa fa-spotify" aria-hidden="true"></i>
 	          <strong>Spotify</strong>
-	          <p>Advertising within the Spotify platform allows you to target music lovers by their listening behaviors</p>
+	          <p>Advertising within the Spotify platform allows you to target music lovers by their listening behaviors.</p>
 	        </div>
 	        <div class="col-md-4 feature">
 	          <i style="font-size: 40px; color: rgb(196, 48, 43);" class="fa fa-youtube-play" aria-hidden="true"></i>
 	          <strong>YouTube</strong>
-	          <p>Youtube is one the most powerful online advertising platforms. Reach out a significant audience and turn viewers into fans.</p>
+	          <p>YouTube is one the most powerful online advertising platforms. Reach out a significant audience and turn viewers into fans.</p>
 	        </div>
 	        <div class="col-md-4 feature">
 	          <i style="font-size: 40px; color: rgb(59, 89, 152)" class="fa fa-google" aria-hidden="true"></i>
@@ -63,7 +63,7 @@
       <div class="row header col-md-offset-2 col-md-8">
         <h3>Formats &amp; Targeting</h3>
         <p>
-          Every platform has it’s own audience, unique format options and targeting tools. Using multiple platforms to market your message can strengthen your campaign.<br /><br />See  the summary of options below.
+          Every platform has its own audience, unique format options and targeting tools. Using multiple platforms to market your message can strengthen your campaign. <br /><br />See  the summary of options below.
         </p>
       </div>
     </div>
@@ -357,7 +357,7 @@
       <div class="row header col-md-offset-2 col-md-8">
         <h3>Pricing</h3>
         <p>
-          We have a very clear pricing policy. Our fees are based on a small percentage of the campaign budget and on the type of implementation.
+          Future Fanbase has a clear pricing policy. Our prices are based on a responsibility and implementation fee.
         </p>
         <p><a href="/online-advertising/prices">See our policy </a>.</p>
       </div>

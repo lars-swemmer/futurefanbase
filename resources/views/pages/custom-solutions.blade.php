@@ -10,7 +10,7 @@
         <div class="col-md-12">
           <h3>Custom Solutions</h3>
           <p style="width: 100%;">
-            Do your marketing objectives require special needs? We can offer you custom made solutions when it comes to data needs, website development, content creation or new campaign types. Let us know your wishes and together we can create something unique.
+            Does your marketing objective require special needs? No problem, we offer custom made solutions when it comes to data needs, website development, content creation or new campaign types. Let's talk about your wishes and together we will create something unique.
           </p>
         </div>
       </div>
@@ -20,14 +20,14 @@
           <i style="float: left; font-size: 40px; color: #555;" class="fa fa-desktop" aria-hidden="true"></i>
           <div class="info">
             <strong>Data &amp; Website Solutions </strong>
-            <p>With our in-house data and website skills we can offer custom made solutions when it comes to development. For bigger projects we can team up with other developers within our network. If you you have some specific data, product or website wishes, let us know what it is you’re looking for. </p>
+            <p>With our in-house data and website skills we offer custom made solutions when it comes to development. For large projects we team up with other developers within our collective. If you have some specific data, product or website wishes, reach out so we know what it is you’re looking for.</p>
           </div>
         </div>
         <div class="col-md-12 feature">
           <i style="float: left; font-size: 40px; color: #555;" class="fa fa-paint-brush" aria-hidden="true"></i>
           <div class="info">
             <strong>Content Creation</strong>
-            <p>We have a large network consisting designers, video directors, video editors and website designers. When you’re in need of unique and specific content, we can build a special team and add real value to your online marketing campaign.</p>
+            <p>We are a collective of professionals working together with designers, film directors, video editors and website designers. When you’re in need of unique and specific content, we can build a special team and add real value to your online marketing campaign.</p>
           </div>
         </div>
       </div>

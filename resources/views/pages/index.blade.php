@@ -26,14 +26,14 @@
       <div class="row header">
         <div class="col-md-12">
           <h2>"When it comes to music marketing, data is power" - <i>Forbes</i></h2>
-          <p>Data will give you insights on your fanbase and will improve your next marketing campaign.</p>
+          <p>Data provides powerful insights and is important in optimizing all of your online marketing activities.</p>
         </div>
       </div>
       <div class="row feature">
         <div class="col-md-6 info">
           <h4>Gather data in your own database</h4>
           <p>
-            Data will give you insights on your fanbase, will improve your next online marketing campaign and the opportunity to generate more future fans. With the products of Future Fanbase you can generate data and see real time results in your own database.
+            Data provides powerful fan insights, improves your online marketing campaign and creates the opportunity to generate more future fans. With the products of Future Fanbase you can generate fan data and see real time results in your own database environment.
           </p>
         </div>
         <div class="col-md-6 image">
@@ -43,12 +43,12 @@
       <div class="divider"></div>
       <div class="row feature backwards">
         <div class="col-md-6 info">
-          <h4>We can take online marketing to the next level</h4>
+          <h4>We take online marketing to the next level</h4>
           <p>
-            We are always looking for the best and new ways to spread your message and increase awareness in the digital world.
+            We innovate every day looking for the best way to spread your message and increase awareness in the digital world.
           </p>
           <p>
-            Together we will set your goals and match them with the preferable budget. In result we will create the right campaign, with the right targeting and the best combination of advertising tools.
+            Together we will set your goals and match them with the preferable budget. In result we will create the perfect campaign, with the right targeting and the best combination of advertising tools. 
           </p>
         </div>
         <div class="col-md-6 image">
@@ -83,7 +83,7 @@
         <div class="col-md-6 feature">
           <i style="float:left; font-size: 40px; color: #555;" class="fa fa-youtube" aria-hidden="true"></i>
           <div class="info">
-            <strong style="color: #3B88B6">Youtube View Booster</strong>
+            <strong style="color: #3B88B6">YouTube View Booster</strong>
             <p>Let your view counter reach the highest heights.</p>
           </div>
         </div>
@@ -239,7 +239,7 @@
               </div>
               <div class="spec" style="font-size: 13px;">
                 <span class="variable">3</span>
-                playlist switch per month 
+                playlist switches per month 
               </div>
               <div class="spec" style="font-size: 13px;">
                 <span class="variable">Fan data</span>
@@ -371,7 +371,7 @@
       <div class="row header">
         <div class="col-md-12">
             <h3 style="font-size: 23px; color: #55565d; font-weight: 500; margin-bottom: 10px;">Advertising Platforms</h3>
-            <p style="font-size: 16px; font-weight: 400; color:#888; width: 75%; margin: 0 auto;">These are the main online advertising platforms Future Fanbases uses to promote your profile, channel, music, event, merchandise or any other marketing objective.</p>
+            <p style="font-size: 16px; font-weight: 400; color:#888; width: 75%; margin: 0 auto;">These are the main online advertising platforms Future Fanbase uses to promote your profile, channel, music, event, merchandise or any other marketing objective.</p>
         </div>
     </div>
     <div class="row">
@@ -383,7 +383,7 @@
         <div class="col-md-4 feature">
           <i style="font-size: 40px; color: rgb(196, 48, 43);" class="fa fa-youtube-play" aria-hidden="true"></i>
           <strong>YouTube</strong>
-          <p>Youtube is one the most powerful online advertising platforms. Reach out a significant audience and turn viewers into fans.</p>
+          <p>YouTube is one the most powerful online advertising platforms. Reach out a significant audience and turn viewers into fans.</p>
         </div>
         <div class="col-md-4 feature">
           <i style="font-size: 40px; color: rgb(59, 89, 152)" class="fa fa-google" aria-hidden="true"></i>

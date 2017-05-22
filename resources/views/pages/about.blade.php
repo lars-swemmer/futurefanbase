@@ -18,11 +18,11 @@
           <div class="content">
             <h3>This Is: Future Fanbase</h3>
             <p>
-              Future Fanbase is an online marketing agency that will help you to reach your goals by implementing and creating the right strategy for your online marketing campaign. With these three ingredients: data, online advertising and strategy, we are able to succeed in meeting your online marketing objectives.
+              Future Fanbase is an online marketing agency that helps you to reach your goals by implementing and creating the right strategy for your online marketing campaign. With these three ingredients: data, online advertising and strategy, we are able to succeed in meeting your online marketing objectives.
             </p>
             <p>
               <h4>Data</h4>
-              Future Fanbase focusses on developing products to generate data of your fans. Data provides powerful insights and is important in analyzing and optimizing all of your online marketing activities. By using our products you’ll always have access to your own database where you can track results and retrieve insights, while we are able to further fine tune your online campaign.
+              Future Fanbase focuses on developing products to generate data of your fans. Data provides powerful insights and is important in analyzing and optimizing all of your online marketing activities. By using our products you will always have access to your own database where you can track results and retrieve insights, while we are able to further fine tune your online campaign.
             </p>
             <p>
               <h4>Online Advertising</h4>
@@ -63,7 +63,7 @@
                     </div>
                   </div>
                   <div class="author">
-                    <img class="pic" src="https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-1/15109530_10207966692588470_6194946528084313786_n.jpg?oh=d5cd54f9400a523196a7dcc5984cd9cc&oe=597533FE">
+                    <img class="pic" src="/images/bo.jpg">
                     <div class="name"><a target="_blank" href="https://www.linkedin.com/in/bonecaverhagen/">Boneca Verhagen</a></div>
                     <div class="company">Managing Director</div>
                   </div>

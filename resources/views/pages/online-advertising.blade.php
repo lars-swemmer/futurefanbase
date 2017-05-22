@@ -26,7 +26,7 @@
         <div class="col-md-6 feature">
           <i style="float:left; font-size: 40px; color: #555;" class="fa fa-youtube" aria-hidden="true"></i>
           <div class="info">
-            <strong>Youtube View Booster</strong>
+            <strong>YouTube View Booster</strong>
             <p>Let your view counter reach the highest heights.</p>
           </div>
         </div>
@@ -52,7 +52,7 @@
         <div class="col-md-12">
           <h3>Advertising Platforms</h3>
           <p>
-            Future Fanbases uses several promotion tools to reach your marketing objectives.
+            Future Fanbase uses several promotion tools to reach your marketing objectives.
           </p>
           <a href="online-advertising/advertising-platforms">Read more</a>
         </div>
@@ -69,14 +69,14 @@
           
           <div class="info" style="margin-left: 0;">
             <strong>Formates &amp; Targeting</strong>
-            <p>Every platform has it’s own audience, unique format options and targeting tools.</p>
+            <p>Every platform has its own audience, unique format options and targeting tools. </p>
           </div>
         </div>
         <div class="col-md-4 feature">
           
           <div class="info" style="margin-left: 0;">
             <strong>Pricing</strong>
-            <p>We have a clear pricing policy. Our fees are based on a responsibility fee plus an implementation fee. </p>
+            <p>Future Fanbase has a clear pricing policy. Our prices are based on a responsibility and implementation fee. </p>
           </div>
         </div>
       </div>
