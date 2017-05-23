@@ -1,8 +1,9 @@
 @extends('layouts.pages')
 
+@section('content')
+
 @include('layouts.hero-nav')
 
-@section('content')
   <div class="blog-post-hero" style="background-image: url(images/about-hero.jpg)">
     <div class="container">
       <h1 class="animated fadeInUp">

@@ -1,8 +1,8 @@
 @extends('layouts.pages')
 
-@include('layouts.default-nav')
-
 @section('content')
+
+@include('layouts.default-nav')
 
   <div class="pricing-comparison-section" style="margin-top: 80px;">
         <div class="container">

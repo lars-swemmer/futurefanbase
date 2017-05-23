@@ -1,8 +1,8 @@
 @extends('layouts.pages')
 
-@include('layouts.hero-nav')
-
 @section('content')
+
+@include('layouts.hero-nav')
 
   <div class="blog-post-hero" style="background-image: url(images/contact-hero.jpg)">
     <div class="container">

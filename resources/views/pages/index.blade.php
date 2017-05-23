@@ -1,8 +1,8 @@
 @extends('layouts.pages')
 
-@include('layouts.hero-nav')
-
 @section('content')
+
+@include('layouts.hero-nav')
 
   <div class="index-hero">
     <div class="container">

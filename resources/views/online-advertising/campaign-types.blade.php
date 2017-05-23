@@ -1,8 +1,8 @@
 @extends('layouts.pages')
 
-@include('layouts.default-nav')
-
 @section('content')
+
+@include('layouts.default-nav')
 
   <div class="features-tabs-section">
     <div class="container">
