@@ -14,22 +14,13 @@
 /* Pages */
 Route::get('/', 'PagesController@index');
 Route::get('/about', 'PagesController@about');
-// Route::get('/work', 'PagesController@work');
-Route::get('/services', 'PagesController@services');
 Route::get('/contact', 'PagesController@contact');
-Route::get('/spotify', 'PagesController@spotify');
-Route::get('/youtube', 'PagesController@youtube');
-Route::get('/facebook', 'PagesController@facebook');
-Route::get('/instagram', 'PagesController@instagram');
-Route::get('/google', 'PagesController@google');
-Route::get('/contest-and-giveaways', 'PagesController@contestAndGiveaways');
+Route::get('/custom-solutions', 'PagesController@customSolutions');
 
-/* stops for creating structure*/
-// controller => PostsController
+Route::get('/products', 'PagesController@products');
+Route::get('/products/spotify-fans', 'PagesController@spotifyFans');
 
-// Eloquent model => Post
-
-// migration => create_posts_table
-
-/* creates both migration and controller while making Elo model
-// php artisan make:model Post -mc
+Route::get('/online-advertising', 'PagesController@onlineAdvertising');
+Route::get('/online-advertising/campaign-types', 'PagesController@campaignTypes');
+Route::get('/online-advertising/advertising-platforms', 'PagesController@advertisingPlatforms');
+Route::get('/online-advertising/prices', 'PagesController@prices');

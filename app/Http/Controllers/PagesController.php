@@ -16,49 +16,43 @@ class PagesController extends Controller
     	return view('pages.about');
     }
 
-    public function work()
-    {
-    	return view('pages.work');
-    }
-
-    public function services()
-    {
-    	return view('pages.services');
-    }
-
     public function contact()
     {
-    	return view('pages.contact');
+        return view('pages.contact');
     }
 
-    public function spotify()
+    public function products()
     {
-        return view('pages.spotify');
+    	return view('pages.products');
     }
 
-    public function youtube()
+    public function customSolutions()
     {
-        return view('pages.youtube');
+        return view('pages.custom-solutions');
     }
 
-    public function facebook()
+    public function spotifyFans()
     {
-        return view('pages.facebook');
+        return view('products.spotifyfans');
     }
 
-    public function instagram()
+    public function onlineAdvertising()
     {
-        return view('pages.instagram');
+        return view('pages.online-advertising');
     }
 
-    public function google()
+    public function campaignTypes()
     {
-        return view('pages.google');
+        return view('online-advertising.campaign-types');
     }
 
-    public function contestAndGiveaways()
+    public function advertisingPlatforms()
     {
-        return view('pages.contests');
+        return view('online-advertising.advertising-platforms');
+    }
+
+    public function prices()
+    {
+        return view('online-advertising.prices');
     }
 }
-

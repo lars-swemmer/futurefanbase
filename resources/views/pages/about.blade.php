@@ -1,102 +1,135 @@
 @extends('layouts.pages')
 
 @section('content')
-    <div class="container nopadding">
-          <div class="about">
-            <div class="about-intro">
-              <div class="col-md-8">
-                <h1 class="wow fadeInDown" data-wow-delay="1.2s">Founded by two<br />music passionates.</h1>
-                <p class="wow fadeInDown" data-wow-delay="1.3s">
-                  With years of experience in the music industry my founders decided it was time to combine their powers: online marketing x technical development. And that’s how I was born…
-                </p>
-              </div>
-            </div>
+
+@include('layouts.hero-nav')
+
+  <div class="blog-post-hero" style="background-image: url(images/about-hero.jpg)">
+    <div class="container">
+      <h1 class="animated fadeInUp">
+        About Future Fanbase<br /><small style="color:#fff;">Founded by two music passionates</small>
+      </h1>
+    </div>
+  </div>
+
+  <div class="blog-post-wrapper">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-10 post">
+          <div class="content">
+            <h3>This Is: Future Fanbase</h3>
+            <p>
+              Future Fanbase is an online marketing agency that helps you to reach your goals by implementing and creating the right strategy for your online marketing campaign. With these three ingredients: data, online advertising and strategy, we are able to succeed in meeting your online marketing objectives.
+            </p>
+            <p>
+              <h4>Data</h4>
+              Future Fanbase focuses on developing products to generate data of your fans. Data provides powerful insights and is important in analyzing and optimizing all of your online marketing activities. By using our products you will always have access to your own database where you can track results and retrieve insights, while we are able to further fine tune your online campaign.
+            </p>
+            <p>
+              <h4>Online Advertising</h4>
+              Whether it’s to increase following, branding, promote your music or sell new products. With the right combination of online advertising platforms, formats and targeting, we will promote your marketing message to the right audience in order to reach your objectives.
+            </p>
+            <p>
+              <h4>Strategy</h4>
+              To reach your long term goals we can advise you on your overall advertising and/or content strategy. Next to data and online advertising: timing, frequency and content creation are important factors in the success of your online presence.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-10 post">
+          <div class="content">
+            <h3>These Are: The Founders</h3>
+            <p>
+              Future Fanbase is founded by two music passionates named Boneca and Lars. With years of experience in the music industry they decided it was time to combine their powers: online marketing x technical development.
+            </p>
+          </div>
+         </div>
+        </div>
 
 
-            <div class="team-section">
-              <div class="col-md-4 col-sm-12">
-                <div class="team-intro">
-                  <div class="col-lg-12 col-sm-7 nopadding">
-                    <h4 class="wow fadeInDown" data-wow-delay="1.4s">Online marketing X technical development</h4>
-                    <h1 class="wow fadeInDown" data-wow-delay="1.4s">The Team</h1>
-                    {{-- <p class="wow fadeInDown" data-wow-delay="1.5s">
-                      When you have the army with guts and strength, numbers doesn't matter. Because at the end of the day
-                      you'll win anyway.
-                    </p> --}}
+
+
+
+        <div class="testimonials-section" style="margin-top: 40px;">
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-6">
+                <div class="testimonial pull-right">
+                  <div class="quote">
+                    Communication science (University of Amsterdam), worked at Spinnin’ Records, now co-founder and Managing Director of Future Fanbase, favorite music genres: dance pop, indie poptimism, indietronica and house.
+                    <div class="arrow-down">
+                      <div class="arrow"></div>
+                      <div class="arrow-border"></div>
+                    </div>
+                  </div>
+                  <div class="author">
+                    <img class="pic" src="/images/bo.jpg">
+                    <div class="name"><a target="_blank" href="https://www.linkedin.com/in/bonecaverhagen/">Boneca Verhagen</a></div>
+                    <div class="company">Managing Director</div>
                   </div>
                 </div>
               </div>
-              <div class="col-md-10 col-sm-12">
-                <div class="team">
-                  <div class="col-sm-3 col-xs-6 nopadding text-center wow fadeInDown" data-wow-delay=".1s">
-                    <div class="team-image">
-                      <img class="img-circle" src="/images/bo.jpg" height="140" width="140" alt="Team Member" />
-                    </div>
-                    <div class="team-name">
-                      <h2>Boneca V.</h2>
-                      <p>
-                        Online Marketing
-                      </p>
+              <div class="col-sm-6">
+                <div class="testimonial">
+                  <div class="quote">
+                    Communication and Multimedia Design (Rotterdam University of Applied Sciences), worked at Spinnin’ Records, now co-founder of Future Fanbase and Head of Data at Martin Garrix, favorite music genres: techno and deep house.
+                    <div class="arrow-down">
+                      <div class="arrow"></div>
+                      <div class="arrow-border"></div>
                     </div>
                   </div>
-                  <div class="col-sm-3 col-xs-6 nopadding text-center  wow fadeInDown" data-wow-delay=".1s">
-                    <div class="team-image">
-                      <img class="img-circle" src="/images/lars.jpg" height="140" width="140" alt="Team Member" />
-                    </div>
-                    <div class="team-name">
-                      <h2>Lars S.</h2>
-                      <p>
-                        Technical Development
-                      </p>
-                    </div>
+                  <div class="author">
+                    <img class="pic" src="https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/12743971_993697550676580_7739028443288921080_n.jpg?oh=097a094057f0d189a43a277e1f9f688e&oe=597BCD1F">
+                    <div class="name"><a target="_blank" href="https://www.linkedin.com/in/larsswemmer/">Lars Swemmer</a></div>
+                    <div class="company">Co-Founder</div>
                   </div>
                 </div>
               </div>
             </div>
+          </div>
+        </div>
 
-            <div class="about-box text-">
-              {{-- <div class="col-md-12 text-">
-              <div class="box-intro">
-                <h1 class=" wow fadeInDown" data-wow-delay=".1s">Our Work process and culture</h1>
-                <p class=" wow fadeInDown" data-wow-delay=".2s">
-                  Just write something about how you deal with your clients and projects briefly in a line or two.
-                  Anything other than that would make nothing but mess.
-                </p>
+
+
+
+          <div class="row">
+            <div class="content" style="font-size: 15px; line-height: 30px; color: #454545">
+              <div class="col-md-5 col-md-offset-1"> 
+                <h6 style="color: #3C92C5">Specialties</h6>
+                <ul>
+                  <li>Online Advertising</li>
+                  <li>Marketing Strategy</li>
+                  <li>Project Management</li>
+                  <li>Analytics</li>
+                </ul>
+                <h6 style="color: #3C92C5">Certifications</h6>
+                <ul>
+                  <li>Google Adwords</li>
+                  <li>YouTube Content Strategy</li>
+                  <li>YouTube Audience Growth</li>
+                </ul>
+              </div>
+              <div class="col-md-5" style="margin-left: 36px;">
+                <h6 style="color: #3C92C5">Specialties</h6>
+                <ul>
+                  <li>Data Engineering</li>
+                  <li>Back-End Development</li>
+                  <li>API Development</li>
+                  <li>Growth Hacking</li>
+                </ul>
+                <h6 style="color: #3C92C5">Certification</h6>
+                <ul>
+                  <li>YouTube: API</li>
+                </ul>
               </div>
             </div>
-              <div class="col-md-6 col-sm-6  wow fadeInDown" data-wow-delay=".1s">
-                <div class="details">
-                  <h1>Ideation and Testing</h1>
-                  <p>
-                    We at Route spend more time to test the idea than on the real project. Because, when we get to know the
-                    what stuff, it gives us the best of it.
-                  </p>
-                  <a href="services.html" class="btn-hyper">Know More</a>
-                </div>
-              </div>
-              <div class="col-md-6 col-sm-6  wow fadeInDown" data-wow-delay=".1s">
-                <div class="details">
-                  <h1>Testing and Feedback</h1>
-                  <p>
-                    We at Route spend more time to test the idea than on the real project. Because, when we get to know the
-                    what stuff, it gives us the best of it.
-                  </p>
-                  <a href="services.html" class="btn-hyper">Know More</a>
-                </div>
-              </div> --}}
-            </div>
-
-            <div class="cta text-center">
-              <div class="inner">
-                <h1 class=" wow fadeInDown" data-wow-delay=".1s">What can we do for you?
-                </h1>
-                <a class="btn btn-action  wow fadeInDown" data-wow-delay=".2s" href="services">Services</a>
-              </div>
-            </div>
+          </div>
 
 
-          </div><!-- About -->
-        </div> <!-- container -->
 
+      </div>
+    </div>
+  </div>
 
 @endsection
