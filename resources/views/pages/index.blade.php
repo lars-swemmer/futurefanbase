@@ -66,7 +66,7 @@
       <div class="row header">
         <div class="col-md-12">
           <h3 style="color: #3B88B6; font-weight: normal; font-size: 19px;">Campaign Types </h3>
-          <p>
+          <p style="font-size: 14px; color: #6C7279;">
             Here are some examples of different campaign types you can run through Future Fanbase.
           </p>
           <a href="/online-advertising/campaign-types">Read more</a>
