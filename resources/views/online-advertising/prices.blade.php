@@ -18,6 +18,10 @@
           font-size: 10px;
           color: #333;
         }
+
+        .colored {
+          color: #459CE7;
+        }
       </style>
 
       <div class="row" style="margin-top: 40px;">
@@ -46,21 +50,21 @@
           </tr>
           <tr>
             <td>Responsibility fee</td>
-            <td><strong>5%</strong></td>
-            <td><strong>5%</strong></td>
-            <td><strong>5%</strong></td>
-            <td><strong>5%</strong></td>
-            <td><strong>5%</strong></td>
-            <td><strong>5%</strong></td>
+            <td><strong class="colored">5%</strong></td>
+            <td><strong class="colored">5%</strong></td>
+            <td><strong class="colored">5%</strong></td>
+            <td><strong class="colored">5%</strong></td>
+            <td><strong class="colored">5%</strong></td>
+            <td><strong class="colored">5%</strong></td>
           </tr>
           <tr>
             <td>Basic campaign</td>
-            <td><strong>€175</strong></td>
-            <td><strong>€135</strong></td>
-            <td><strong>€125</strong></td>
-            <td><strong>€95</strong></td>
-            <td><strong>€95</strong></td>
-            <td><strong>€85</strong></td>
+            <td><strong class="colored">€175</strong></td>
+            <td><strong class="colored">€135</strong></td>
+            <td><strong class="colored">€125</strong></td>
+            <td><strong class="colored">€95</strong></td>
+            <td><strong class="colored">€95</strong></td>
+            <td><strong class="colored">€85</strong></td>
           </tr>
           <tr>
             <td>&nbsp;</td>

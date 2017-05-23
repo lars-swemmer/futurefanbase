@@ -76,7 +76,7 @@
           
           <div class="info" style="margin-left: 0;">
             <strong>Pricing</strong>
-            <p>Future Fanbase has a clear pricing policy. Our prices are based on a responsibility and implementation fee. </p>
+            <p>Our prices are based on a responsibility and implementation fee.</p>
           </div>
         </div>
       </div>

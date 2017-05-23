@@ -11,7 +11,7 @@
             marketing campaign
         </h1>
         <p class="sub-text animated fadeInDown">
-            With years of experience in the music industry we know what’s important to artists and music brands.
+            With years of experience in the music industry we know what’s important to artists and entertainment brands.
         </p>
         <div class="cta animated fadeInDown">
             <a href="/products" class="button-outline">See products</a>
