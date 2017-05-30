@@ -50,12 +50,12 @@
       </div>
 
       <div class="row charts">
-        <div class="col-md-4">
+        <div class="col-md-5 col-md-offset-1">
           <div class="chart first" style="padding: 20px;">
             <div class="plan-name">Basic</div>
             <div class="quantity">
               <span class="dollar">€</span>
-              <span class="price">399</span>
+              <span class="price">499</span>
               <span class="period">/month</span>
             </div>
             <div class="specs">
@@ -101,60 +101,9 @@
             </a>
           </div>
         </div>
-        <div class="col-md-4">
-          <div class="chart featured" style="padding: 20px 20px 40px 20px;">
+        <div class="col-md-5">
+          <div class="chart featured" style="padding: 20px;">
             <img src="/images/ribbon.png" class="popular" alt="ribbon" />
-            <div class="plan-name">Advanced</div>
-            <div class="quantity">
-              <span class="dollar">€</span>
-              <span class="price">599</span>
-              <span class="period">/month</span>
-            </div>            
-            <div class="specs">
-              <div class="spec" style="font-size: 13px;">
-                {{-- <span class="variable">1</span> --}}
-                Playlist and artist follow
-              </div>
-              <div class="spec" style="font-size: 13px;">
-                <span class="variable">1</span>
-                playlist switch per month 
-              </div>
-              <div class="spec" style="font-size: 13px;">
-                <span class="variable">Fan data</span>
-                name, mail, age, country
-              </div>
-              <div class="spec" style="font-size: 13px;">
-                <span class="variable">Insights</span>
-                top 10 artists, fans
-              </div>
-              <div class="spec" style="font-size: 13px;">
-                <span class="variable">Measures</span>
-                followers
-              </div>
-              <div class="spec" style="font-size: 13px;">
-                <span class="variable">Design</span>
-                artist branded
-              </div>
-              <div class="spec" style="font-size: 13px;">
-                <span class="variable">7.5%</span>
-                discount on a Spotify campaign
-              </div>
-              <div class="spec" style="font-size: 13px;">
-                <span class="variable">Pixel</span>
-                remarketing &amp; conversion
-              </div>
-              <div class="spec" style="font-size: 13px;">
-                <span class="variable">Server</span>
-                Future Fanbase
-              </div>
-            </div>
-            <a class="btn-signup button-clear" href="MAILTO:hello@futurefanse.com">
-              <span>Contact us</span>
-            </a>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="chart last" style="padding: 20px;">
             <div class="plan-name">Premium</div>
             <div class="quantity">
               <span class="dollar">€</span>
