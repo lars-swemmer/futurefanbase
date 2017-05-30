@@ -132,7 +132,7 @@
             <div class="specs">
               <div class="spec" style="font-size: 13px;">
                 {{-- <span class="variable">1</span> --}}
-                Playlist follow
+                Playlist and artist follow
               </div>
               <div class="spec" style="font-size: 13px;">
                 <span class="variable">1</span>
@@ -143,16 +143,16 @@
                 name, mail, age, country
               </div>
               <div class="spec" style="font-size: 13px;">
-                <span class="variable">Insights</span>
-                fans 
+                <span class="variable">Extra insights</span>
+                top artists
               </div>
               <div class="spec" style="font-size: 13px;">
                 <span class="variable">Measures</span>
-                followers
+                new followers
               </div>
               <div class="spec" style="font-size: 13px;">
                 <span class="variable">Design</span>
-                artist branded
+                artist branded, standard
               </div>
               <div class="spec" style="font-size: 13px;">
                 <span class="variable">5%</span>
@@ -188,7 +188,7 @@
                 Playlist and artist follow
               </div>
               <div class="spec" style="font-size: 13px;">
-                <span class="variable">3</span>
+                <span class="variable">2</span>
                 playlist switches per month 
               </div>
               <div class="spec" style="font-size: 13px;">
@@ -196,12 +196,12 @@
                 name, mail, age, country
               </div>
               <div class="spec" style="font-size: 13px;">
-                <span class="variable">Insights</span>
-                top artists, fans
+                <span class="variable">Extra insights</span>
+                top artists
               </div>
               <div class="spec" style="font-size: 13px;">
                 <span class="variable">Measures</span>
-                followers, playlists, popularity
+                new followers
               </div>
               <div class="spec" style="font-size: 13px;">
                 <span class="variable">Design</span>
@@ -217,7 +217,7 @@
               </div>
               <div class="spec" style="font-size: 13px;">
                 <span class="variable">Server</span>
-                Your own server
+                Own hosting
               </div>
             </div>
             <a class="btn-signup button-clear" href="/products/spotify-fans">
