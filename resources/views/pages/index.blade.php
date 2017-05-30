@@ -121,18 +121,18 @@
         </div>
       </div>
       <div class="row charts">
-        <div class="col-md-4">
+        <div class="col-md-5 col-md-offset-1">
           <div class="chart first" style="padding: 20px;">
             <div class="quantity">
               <span class="dollar">€</span>
-              <span class="price">399</span>
+              <span class="price">499</span>
               <span class="period">/month</span>
             </div>
             <div class="plan-name">Basic</div>
             <div class="specs">
               <div class="spec" style="font-size: 13px;">
                 {{-- <span class="variable">1</span> --}}
-                Playlist follow
+                Playlist and artist follow
               </div>
               <div class="spec" style="font-size: 13px;">
                 <span class="variable">1</span>
@@ -143,16 +143,16 @@
                 name, mail, age, country
               </div>
               <div class="spec" style="font-size: 13px;">
-                <span class="variable">Insights</span>
-                fans 
+                <span class="variable">Extra insights</span>
+                top artists
               </div>
               <div class="spec" style="font-size: 13px;">
                 <span class="variable">Measures</span>
-                followers
+                new followers
               </div>
               <div class="spec" style="font-size: 13px;">
                 <span class="variable">Design</span>
-                artist branded
+                artist branded, standard
               </div>
               <div class="spec" style="font-size: 13px;">
                 <span class="variable">5%</span>
@@ -172,60 +172,10 @@
             </a>
           </div>
         </div>
-        <div class="col-md-4">
+        
+        <div class="col-md-5">
           <div class="chart featured" style="padding: 20px;">
-            <div class="popular">Most popular</div>
-            <div class="quantity">
-              <span class="dollar">€</span>
-              <span class="price">599</span>
-              <span class="period">/month</span>
-            </div>
-            <div class="plan-name">Advanced</div>
-             <div class="specs">
-              <div class="spec" style="font-size: 13px;">
-                {{-- <span class="variable">1</span> --}}
-                Playlist and artist follow
-              </div>
-              <div class="spec" style="font-size: 13px;">
-                <span class="variable">1</span>
-                playlist switch per month 
-              </div>
-              <div class="spec" style="font-size: 13px;">
-                <span class="variable">Fan data</span>
-                name, mail, age, country
-              </div>
-              <div class="spec" style="font-size: 13px;">
-                <span class="variable">Insights</span>
-                top 10 artists, fans
-              </div>
-              <div class="spec" style="font-size: 13px;">
-                <span class="variable">Measures</span>
-                followers
-              </div>
-              <div class="spec" style="font-size: 13px;">
-                <span class="variable">Design</span>
-                artist branded
-              </div>
-              <div class="spec" style="font-size: 13px;">
-                <span class="variable">7.5%</span>
-                discount on a Spotify campaign
-              </div>
-              <div class="spec" style="font-size: 13px;">
-                <span class="variable">Pixel</span>
-                remarketing &amp; conversion
-              </div>
-              <div class="spec" style="font-size: 13px;">
-                <span class="variable">Server</span>
-                Future Fanbase
-              </div>
-            </div>
-            <a class="btn-signup button-clear" href="/products/spotify-fans">
-              <span>See More</span>
-            </a>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="chart last" style="padding: 20px;">
+          <div class="popular">Most popular</div>
             <div class="quantity">
               <span class="dollar">€</span>
               <span class="price">899</span>
@@ -238,7 +188,7 @@
                 Playlist and artist follow
               </div>
               <div class="spec" style="font-size: 13px;">
-                <span class="variable">3</span>
+                <span class="variable">2</span>
                 playlist switches per month 
               </div>
               <div class="spec" style="font-size: 13px;">
@@ -246,12 +196,12 @@
                 name, mail, age, country
               </div>
               <div class="spec" style="font-size: 13px;">
-                <span class="variable">Insights</span>
-                top artists, fans
+                <span class="variable">Extra insights</span>
+                top artists
               </div>
               <div class="spec" style="font-size: 13px;">
                 <span class="variable">Measures</span>
-                followers, playlists, popularity
+                new followers
               </div>
               <div class="spec" style="font-size: 13px;">
                 <span class="variable">Design</span>
@@ -267,7 +217,7 @@
               </div>
               <div class="spec" style="font-size: 13px;">
                 <span class="variable">Server</span>
-                Your own server
+                Own hosting
               </div>
             </div>
             <a class="btn-signup button-clear" href="/products/spotify-fans">
