@@ -25,8 +25,8 @@
       </style>
 
       <div class="row" style="margin-top: 40px;">
-      	<div class="col-md-12">
-      		<table class="table table-responsive" style="font-size: 12px; border: 1px solid #ddd;">
+        <div class="col-md-12">
+          <table class="table table-responsive" style="font-size: 12px; border: 1px solid #ddd;">
         <thead>
           <tr>
             <th>Summary Future Fanbase Fee</th>
@@ -50,21 +50,21 @@
           </tr>
           <tr>
             <td>Responsibility fee</td>
-            <td><strong class="colored">5%</strong></td>
-            <td><strong class="colored">5%</strong></td>
-            <td><strong class="colored">5%</strong></td>
-            <td><strong class="colored">5%</strong></td>
-            <td><strong class="colored">5%</strong></td>
-            <td><strong class="colored">5%</strong></td>
+            <td><strong class="colored">7.5%</strong></td>
+            <td><strong class="colored">7.5%</strong></td>
+            <td><strong class="colored">7.5%</strong></td>
+            <td><strong class="colored">7.5%</strong></td>
+            <td><strong class="colored">7.5%</strong></td>
+            <td><strong class="colored">7.5%</strong></td>
           </tr>
           <tr>
             <td>Basic campaign</td>
+            <td><strong class="colored">€195</strong></td>
             <td><strong class="colored">€175</strong></td>
-            <td><strong class="colored">€135</strong></td>
+            <td><strong class="colored">€155</strong></td>
             <td><strong class="colored">€125</strong></td>
-            <td><strong class="colored">€95</strong></td>
-            <td><strong class="colored">€95</strong></td>
-            <td><strong class="colored">€85</strong></td>
+            <td><strong class="colored">€125</strong></td>
+            <td><strong class="colored">€115</strong></td>
           </tr>
           <tr>
             <td>&nbsp;</td>
@@ -87,8 +87,8 @@
           <tr>
             <td>- add per extra 5 placements</td>
             <td><i class="fa fa-times" aria-hidden="true"></i></td>
-            <td>€8.50</td>
-            <td>€8.50</td>
+            <td>€15.50</td>
+            <td>€15.50</td>
             <td><i class="fa fa-times" aria-hidden="true"></i></td>
             <td><i class="fa fa-times" aria-hidden="true"></i></td>
             <td><i class="fa fa-times" aria-hidden="true"></i></td>
@@ -96,11 +96,11 @@
           <tr>
             <td>- add per extra 5 interests/groups</td>
             <td><i class="fa fa-times" aria-hidden="true"></i></td>
-            <td>€7.50</td>
-            <td>€7.50</td>
-            <td>€7.50</td>
-            <td>€7.50</td>
-            <td>€7.50</td>
+            <td>€9.50</td>
+            <td>€9.50</td>
+            <td>€9.50</td>
+            <td>€9.50</td>
+            <td>€9.50</td>
           </tr>
           <tr>
             <td>&nbsp;</td>
@@ -125,17 +125,17 @@
             <td><i class="fa fa-times" aria-hidden="true"></i></td>
             <td>on request</td>
             <td>on request</td>
-            <td>€19.50</td>
-            <td>€19.50</td>
+            <td>€29.50</td>
+            <td>€29.50</td>
             <td><i class="fa fa-times" aria-hidden="true"></i></td>
           </tr>
           <tr>
             <td>- add per 5 countries</td>
             <td><i class="fa fa-times" aria-hidden="true"></i></td>
-            <td>€7.50</td>
-            <td>€7.50</td>
-            <td>€7.50</td>
-            <td>€7.50</td>
+            <td>€9.50</td>
+            <td>€9.50</td>
+            <td>€9.50</td>
+            <td>€9.50</td>
             <td><i class="fa fa-times" aria-hidden="true"></i></td>
           </tr>
           <tr>
@@ -159,19 +159,19 @@
           <tr>
             <td>Per extra ad group: interests</td>
             <td><i class="fa fa-times" aria-hidden="true"></i></td>
-            <td>€22.50</td>
-            <td>€22.50</td>
-            <td>€19.50</td>
-            <td>€19.50</td>
+            <td>€34.50</td>
+            <td>€34.50</td>
+            <td>€31.50</td>
+            <td>€31.50</td>
             <td><i class="fa fa-times" aria-hidden="true"></i></td>
           </tr>
           <tr>
             <td>- add per 5 interests</td>
             <td><i class="fa fa-times" aria-hidden="true"></i></td>
-            <td>€7.50</td>
-            <td>€7.50</td>
-            <td>€7.50</td>
-            <td>€7.50</td>
+            <td>€9.50</td>
+            <td>€9.50</td>
+            <td>€9.50</td>
+            <td>€9.50</td>
             <td><i class="fa fa-times" aria-hidden="true"></i></td>
           </tr>
           <tr>
@@ -194,16 +194,16 @@
           </tr>
           <tr>
             <td>Basic Campaign</td>
-            <td>€25</td>
-            <td>€50</td>
-            <td>€50</td>
-            <td>€45</td>
-            <td>€45</td>
-            <td>€35</td>
+            <td>€65</td>
+            <td>€85</td>
+            <td>€85</td>
+            <td>€80</td>
+            <td>€80</td>
+            <td>€65</td>
           </tr>
         </tbody>
       </table>
-      	</div>
+        </div>
       </div>
 
     </div>
@@ -239,15 +239,15 @@
             <div class="section active">
               <h4>More options, extra’s and discount offers</h4>
               <p>Are on request, here are some examples: </p>
-              	<ul>
-              		<li>More targeting options/ad groups</li>
-              		<li> Data implementation </li>
-              		<li> Set up of remarketing lists </li>
-              		<li>A/B testing </li>
-              		<li>Conversion Measures</li>
-              		<li>Audience creation (custom/lookalike)</li>
-              		<li>Long term discounts </li>
-              	</ul>
+                <ul>
+                  <li>More targeting options/ad groups</li>
+                  <li> Data implementation </li>
+                  <li> Set up of remarketing lists </li>
+                  <li>A/B testing </li>
+                  <li>Conversion Measures</li>
+                  <li>Audience creation (custom/lookalike)</li>
+                  <li>Long term discounts </li>
+                </ul>
             </div>
             <div class="section">
               <h4>Basic Campaign Implementation</h4>
@@ -256,7 +256,7 @@
                 <li>1 campaign type/format</li>
                 <li>1 set of basic targeting tools (age; countries; gender; languages*)</li>
                 <li>1 advanced targeting option (narrow by: interests, remarketing and others*) </li>
-                <li>1 basic ad type (can include multiple advertisements*)</li>
+                <li>1 basic ad type</li>
                 <li>1 report</li>
                 <li>Running for 1-30 days</li>
               </ul>
@@ -272,18 +272,18 @@
             <div class="section">
               <h4>Fee Calculation</h4>
               <p>
-               Together we decide on the right strategy to reach your objectives. After determining the campaign type, platforms and formats, we can calculate our fee.
+               After determining the campaign type, platforms and formats, we can calculate our fee.
               </p>
               <p>
                 For example:<br />
                 Objective: Facebook Growth <br />
                 Advertising Platform: Facebook <br />
-                Budget: €4000; Basic Campaign; 6 months <br />
+                Budget: €1000; Basic Campaign; 2 months <br />
                 <br />
-                 Responsibility percentage: €200 <br />
-                Basic campaign Facebook: €95 <br />
-                Extra five months: €225 <br />
-                Total fee: €520<br />
+                 Responsibility percentage: €75<br />
+                Basic campaign Facebook: €125<br />
+                Extra five months: €80<br />
+                Total fee: €280<br />
               </p>
             </div>
             <div class="section">
